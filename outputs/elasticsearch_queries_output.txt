@@ -1,0 +1,507 @@
+
+================================================================================================================================== 
+	Query: All players (with summaries) with at least 30 points per 100 possessions 
+================================================================================================================================== 
+		1) Bam Adebayo. PTS: 25.4| Summary: A versatile center capable of switching across positions, facilitating offense from the high post, and providing elite interior and perimeter defense.|  
+
+		2) Giannis Antetokounmpo. PTS: 34.9| Summary: Dominant forward with elite transition finishing, interior scoring, rim-running ability, ball-handling for a big, floor-spacing gravity, off-ball cutting, and playmaking for teammates in multiple offensive sets.|  
+
+		3) Deandre Ayton. PTS: 26.0| Summary: Physically gifted center with soft touch around the rim, strong rebounding instincts, pick-and-roll finishing, lob receiving, and interior scoring efficiency.|  
+
+		4) Marvin Bagley III. PTS: 25.7| Summary: Explosive forward/center with transition scoring, rim-finishing ability, lob reception, offensive rebounding, and high-motor energy on both ends.|  
+
+		5) RJ Barrett. PTS: 27.3| Summary: Strong slashing wing with size and athleticism, ability to finish through contact, off-ball cutting, pick-and-roll scoring, and midrange creation.|  
+
+		6) Bradley Beal. PTS: 31.0| Summary: Elite scoring guard with three-level scoring, smooth shot mechanics, advanced footwork, off-ball movement, pick-and-roll efficiency, and floor-spacing gravity.|  
+
+		7) Bojan Bogdanovic. PTS: 26.3| Summary: Smooth-scoring forward with efficient catch-and-shoot shooting, smart off-ball movement, floor-spacing ability, and scoring versatility in motion and isolation.|  
+
+		8) Devin Booker. PTS: 34.5| Summary: Elite scoring guard with advanced shot creation, off-the-dribble finishing, floor-spacing gravity, off-ball movement, and ability to create opportunities for teammates through pick-and-roll facilitation.|  
+
+		9) Malcolm Brogdon. PTS: 25.5| Summary: Poised scoring guard with elite efficiency, advanced shot creation, pick-and-roll facilitation, off-ball movement, floor-spacing, and secondary playmaking ability.|  
+
+		10) Jaylen Brown. PTS: 30.2| Summary: Powerful athletic wing with elite slashing ability, finishing through contact, off-ball cutting, transition scoring, and secondary playmaking off penetration.|  
+
+		11) Jalen Brunson. PTS: 29.2| Summary: Composed floor general with elite footwork, midrange scoring, pick-and-roll facilitation, off-ball movement, floor-spacing efficiency, and advanced playmaking control.|  
+
+		12) Jimmy Butler. PTS: 27.9| Summary: An elite two-way wing and floor leader who excels at creating his own shot, facilitating offense, and defending top perimeter threats. Thrives in isolation, post play, and late-game situations with high basketball IQ and control.|  
+
+		13) Jordan Clarkson. PTS: 28.2| Summary: A dynamic scoring guard who creates shots off the dribble, excels in isolation and pull-up situations, and provides instant offense as a spark plug.|  
+
+		14) John Collins. PTS: 26.0| Summary: A powerful, athletic forward who spaces the floor as a pick-and-pop threat, finishes lob plays, and rebounds effectively on both ends.|  
+
+		15) Stephen Curry: PTS: 35.2| Summary: A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.|  
+
+		16) Anthony Davis. PTS: 34.3| Summary: A dominant two-way big with elite rim protection, switch defense, and versatile scoring from post, midrange, and transition. Controls the paint on both ends.|  
+
+		17) DeMar DeRozan. PTS: 31.0| Summary: A skilled mid-range scorer with excellent footwork, post-up ability, and strong playmaking as a secondary facilitator.|  
+
+		18) Luka Doncic. PTS: 40.3| Summary: A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense|  
+
+		19) Kevin Durant. PTS: 37.0| Summary: A super efficient scorer (clutch player) with elite shooting efficiency, advanced handle, and unmatched shot creation from all three levels. Provides strong rim protection and defensive versatility for his size.|  
+
+		20) Anthony Edwards. PTS: 31.9| Summary: A high-level scoring wing with explosive athleticism, strength, and an excellent shot creation. Excellent in transition and on-ball defense.|  
+
+		21) Joel Embiid. PTS: 42.5| Summary: A dominant two-way center with elite post scoring, midrange shooting, and interior defense. Controls tempo, spacing, and rim protection as a franchise anchor.|  
+
+		22) De'Aaron Fox: PTS: 31.1| Summary: An elite speed guard with exceptional burst, downhill scoring, and midrange pull-up accuracy. Excels in transition and pick-and-roll creation.|  
+
+		23) Danilo Gallinari. PTS: 25.7| Summary: Versatile stretch forward with elite shooting from midrange and three-point range, capable of spacing the floor effectively. Can create off the catch or off the dribble, draw fouls consistently, and convert efficiently in pick-and-pop and isolation situations. Provides off-ball movement and cutting to enhance team spacing and offensive flow.|  
+
+		24) Darius Garland. PTS: 27.0| Summary: A quick, creative point guard with elite handle, deep shooting range, and advanced passing in pick-and-roll situations.|  
+
+		25) Rudy Gay. PTS: 25.9| Summary: Versatile forward with midrange and catch-and-shoot scoring ability, capable of creating off the dribble and finishing in transition. Can stretch the floor with spacing, move effectively off-ball, and contribute as a cutter. Provides solid defensive positioning, can switch onto multiple positions, and offers help-side awareness.|  
+
+		26) Paul George. PTS: 30.9| Summary: An elite two-way wing with smooth shot creation, defensive versatility, and advanced scoring across all three levels.|  
+
+		27) Shai Gilgeous-Alexander. PTS: 33.3| Summary: A composed lead guard with elite footwork, slashing ability, and midrange scoring efficiency. Controls pace and creates consistently off drives.|  
+
+		28) Blake Griffin. PTS: 30.1| Summary: Skilled big with high passing IQ, pick-and-pop and pick-and-roll shooting, rim-finishing ability, lob receiving, off-ball movement, and capacity to create scoring opportunities in the interior.|  
+
+		29) Tyrese Haliburton. PTS: 25.1| Summary: Elite playmaking guard with advanced vision, efficient shooting, pick-and-roll control, off-ball movement to generate spacing, ability to read defenses, and creation for teammates in multiple offensive sets.|  
+
+		30) Tim Hardaway Jr.. PTS: 25.5| Summary: Perimeter scorer with elite catch-and-shoot mechanics, quick release, off-ball movement, ability to score off screens, and spacing impact to open driving lanes for teammates.|  
+
+		31) James Harden. PTS: 34.3| Summary: Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.|  
+
+		32) Montrezl Harrell. PTS: 28.4| Summary: High-motor interior scorer and rebounder with elite finishing around the rim, lob and pick-and-roll aggressiveness, transition scoring, and floor-spacing as a lob target.|  
+
+		33) Tobias Harris. PTS: 25.5| Summary: Smooth forward with midrange and perimeter scoring, consistent three-point shooting, off-ball cutting, size to attack mismatches, and floor-spacing impact for team offense.|  
+
+		34) Gordon Hayward. PTS: 25.2| Summary: Versatile wing with catch-and-shoot efficiency, off-ball movement, secondary playmaking, floor-spacing gravity, and ability to create scoring opportunities for teammates off penetration or screens.|  
+
+		35) Tyler Herro. PTS: 28.3| Summary: Creative scoring guard with elite shooting mechanics, off-the-dribble creation, floor-spacing gravity, secondary playmaking, and off-ball movement to generate open looks.|  
+
+		36) Buddy Hield. PTS: 25.9| Summary: Premier three-point specialist with deep range, quick release, off-ball movement, spacing efficiency, and ability to finish off screens and in transition.|  
+
+		37) Brandon Ingram: PTS: 28.3| Summary: A tall, skilled forward with elite midrange scoring, smooth handle, and advanced shot creation. Excellent in isolation and improving as a playmaker.|  
+
+		38) Kyrie Irving. PTS: 34.3| Summary: An elite offensive guard with exceptional ball-handling, finishing craft, and deep shooting range. Excels in isolation, pick-and-roll creation, and clutch scoring.|  
+
+		39) Jaren Jackson Jr.: PTS: 30.0| Summary: A mobile stretch big with elite rim protection, lateral agility, and perimeter shooting. Excels in switch defense and floor spacing.|  
+
+		40) LeBron James. PTS: 36.7| Summary: A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.|  
+
+		41) Keldon Johnson. PTS: 26.1| Summary: A powerful wing with downhill driving, rebounding, and finishing through contact. Brings energy and physicality in both ends.|  
+
+		42) Nikola Jokic. PTS: 33.1| Summary: An elite passing center with unmatched court vision, touch, and scoring efficiency. Controls tempo and facilitates offense through post and high-screen actions.|  
+
+		43) Kyle Kuzma. PTS: 26.5| Summary: A versatile scoring forward with shot creation, rebounding strength, cutting ability, and defensive awareness in multiple matchups.|  
+
+		44) Zach LaVine. PTS: 31.0| Summary: An elite athletic guard with explosive finishing at the rim, smooth jump shot, advanced driving ability, and off-ball movement for spacing.|  
+
+		45) Kawhi Leonard. PTS: 31.5| Summary: An elite two-way forward with exceptional midrange scoring, off-ball movement, perimeter defense, and ability to create and finish in isolation.|  
+
+		46) Damian Lillard. PTS: 34.4| Summary: An elite scoring guard with deep shooting range, clutch shot-making, pick-and-roll command, off-ball movement, and floor-spacing gravity.|  
+
+		47) Brook Lopez. PTS: 26.5| Summary: A veteran center with elite rim protection, floor-spacing shooting, pick-and-roll drop coverage, and team defensive awareness.|  
+
+		48) Kevin Love. PTS: 28.3| Summary: A skilled forward/center with elite rebounding, floor-spacing shooting, outlet passing vision, and catch-and-shoot efficiency.|  
+
+		49) Boban Marjanovic. PTS: 31.2| Summary: A towering center with elite finishing around the rim, rebounding dominance, interior scoring efficiency, and screen setting.|  
+
+		50) Lauri Markkanen. PTS: 28.4| Summary: A versatile stretch forward with elite shooting for size, off-ball cutting, rebounding efficiency, and ability to attack closeouts.|  
+
+		51) Tyrese Maxey: PTS: 29.0| Summary: An explosive scoring guard with elite speed, finishing ability, and shooting touch. Excellent in transition, off-the-dribble creation, and improving playmaking reads.|  
+
+		52) CJ McCollum. PTS: 29.8| Summary: A smooth scoring guard with elite midrange shooting, advanced handle, and off-ball movement. Creates efficiently from pick-and-roll and isolation situations.|  
+
+		53) Khris Middleton. PTS: 26.6| Summary: A polished wing scorer with smooth shooting, midrange mastery, and playmaking ability. Defensively disciplined and effective in structured systems.|  
+
+		54) Donovan Mitchell. PTS: 35.7| Summary: An elite scoring guard with explosive first step, advanced shot creation, and defensive strength. Dominant in isolation and clutch scoring scenarios.|  
+
+		55) Malik Monk: PTS: 26.1| Summary: A high-energy guard with elite shooting confidence, athleticism, and creation ability. Excels in transition, off-ball scoring, and secondary playmaking.|  
+
+		56) Ja Morant. PTS: 33.2| Summary: An explosive playmaking guard with elite speed, body control, and finishing at the rim. Generates offense through transition and creative pick-and-roll execution.|  
+
+		57) Dejounte Murray: PTS: 25.6| Summary: A long, athletic guard with elite rebounding, midrange control, and defensive impact. Creates off the dribble and guards multiple positions effectively.|  
+
+		58) Jamal Murray: PTS: 28.1| Summary: A dynamic scoring guard with elite shooting off movement, advanced footwork, and composure under pressure. Excellent pick-and-roll execution and off-ball play.|  
+
+		59) Kendrick Nunn. PTS: 25.0| Summary: A confident scoring guard with smooth jumper, quick first step, and shot creation ability. Provides instant offense and rhythm shooting in rotations.|  
+
+		60) Victor Oladipo. PTS: 26.1| Summary: A two-way guard with defensive instincts, explosive first step, and secondary playmaking ability. Strong in transition and perimeter containment.|  
+
+		61) Chris Paul. PTS: 26.4| Summary: An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.|  
+
+		62) Jordan Poole. PTS: 28.2| Summary: A dynamic scoring guard with deep range, advanced shot creation, and quick first step. Effective in transition and off-ball scoring actions.|  
+
+		63) Michael Porter Jr.: PTS: 27.8| Summary: A tall, smooth forward with elite shooting touch, off-ball movement, and rebounding ability. Provides efficient scoring and spacing for high-level offenses.|  
+
+		64) Bobby Portis. PTS: 25.3| Summary: A high-energy forward with strong rebounding, midrange shooting, and physical interior play. Brings toughness and scoring from the frontcourt.|  
+
+		65) Kristaps Porzingis. PTS: 31.5| Summary: A skilled 7-footer with elite shooting range, rim protection, and interior scoring. Provides spacing, shot-blocking, and mismatch creation.|  
+
+		66) Norman Powell. PTS: 25.9| Summary: A strong scoring guard with efficient three-point shooting, attacking ability, and transition finishing. Defends physically and spaces the floor.|  
+
+		67) Immanuel Quickley: PTS: 26.7| Summary: Energetic guard with excellent floater and pull-up scoring. Can create shots off the dribble and attack closeouts efficiently.|  
+
+		68) Julius Randle. PTS: 29.3| Summary: Power forward with strong scoring versatility, handles the ball well for his size, and can finish inside and from midrange. Effective as a screener and in pick-and-roll actions.|  
+
+		69) Naz Reid. PTS: 27.2| Summary: Forward/center with soft touch, scoring versatility inside and midrange, and mobility to protect the rim and help in team defense.|  
+
+		70) Derrick Rose. PTS: 29.1| Summary: Guard with elite craft in midrange scoring, pull-up ability, and attacking the basket. Effective in pick-and-rolls and transition scoring.|  
+
+		71) Terry Rozier. PTS: 25.1| Summary: Scoring guard with pull-up shooting, off-ball movement, and ability to create in isolation or pick-and-roll. Effective in transition and late-game situations.|  
+
+		72) D'Angelo Russell. PTS: 28.2| Summary: Guard with smooth shooting, creation off the dribble, and playmaking flair. Can space the floor and facilitate for teammates effectively.|  
+
+		73) Domantas Sabonis. PTS: 25.2| Summary: Big with elite passing, scoring versatility, rebounding, and pick-and-roll finishing. Can defend in team concepts and provide interior help.|  
+
+		74) Dennis Schroder. PTS: 25.1| Summary: Point guard with quick drives, pick-and-roll execution, and perimeter defense. Can score in transition and create off the bounce.|  
+
+		75) Collin Sexton. PTS: 30.6| Summary: Explosive guard with strong midrange scoring, attacking the rim, and finishing through contact. Can move off-ball and create pick-and-roll opportunities.|  
+
+		76) Pascal Siakam. PTS: 27.8| Summary: Forward/center with mobility, midrange shooting, pick-and-roll finishing, and passing for his size. Can switch defensively and protect the rim in help schemes.|  
+
+		77) Anfernee Simons. PTS: 26.9| Summary: Scoring guard with deep range, pull-up shooting, and smooth handle. Can create off the dribble and finish in transition or isolation.|  
+
+		78) Jayson Tatum. PTS: 33.1| Summary: Forward with elite scoring from all levels, spacing impact, footwork, and two-way ability. Can create for self and others, defend multiple positions, and shoot off the dribble or catch.|  
+
+		79) Isaiah Thomas. PTS: 31.0| Summary: Guard with scoring instincts, pull-up shooting, and finishing ability. Can create separation and attack off the bounce efficiently.|  
+
+		80) Klay Thompson. PTS: 29.3| Summary: Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.|  
+
+		81) Karl-Anthony Towns. PTS: 33.0| Summary: Center with elite scoring range, post moves, and pick-and-roll versatility. Can space floor, rebound, and protect the rim in team schemes.|  
+
+		82) Jonas Valanciunas. PTS: 25.9| Summary: Center with rebounding dominance, post scoring, interior finishing, and pick-and-roll roll execution. Can protect paint and set effective screens.|  
+
+		83) Nikola Vucevic. PTS: 27.1| Summary: Center with scoring versatility, touch in the post, pick-and-pop shooting, and passing from high and low post. Can rebound efficiently and screen effectively.|  
+
+		84) Moritz Wagner. PTS: 25.8| Summary: Forward/center with perimeter shooting, spacing ability, and transition finishing. Can defend multiple positions and roll in pick-and-roll schemes.|  
+
+		85) Kemba Walker. PTS: 29.4| Summary: Point guard with elite ball-handling, midrange scoring, pull-up shooting, and pick-and-roll creation. Can control pace and finish in transition efficiently.|  
+
+		86) John Wall. PTS: 26.9| Summary: Point guard with elite speed, pick-and-roll execution, finishing at the rim, and playmaking vision. Can push transition and create for teammates effectively.|  
+
+		87) T.J. Warren. PTS: 25.6| Summary: Forward with midrange scoring, pick-and-roll finishing, and transition attacking ability. Can create separation and score efficiently off the catch.|  
+
+		88) Russell Westbrook: PTS: 31.9| Summary: Guard with explosive attacking ability, rim finishing, rebounding, and pick-and-roll creation. Can push and control pace. He also can create for teammates off the bounce.|  
+
+		89) Andrew Wiggins. PTS: 26.7| Summary: Wing with scoring efficiency, off-ball movement, transition finishing, and perimeter defense. Can switch across positions and cut effectively.|  
+
+		90) Zion Williamson. PTS: 37.4| Summary: Forward with explosive finishing, transition scoring, rim protection, and pick-and-roll rolls. Can create for teammates and space the floor with gravity.|  
+
+		91) Christian Wood. PTS: 28.4| Summary: Forward/center with scoring versatility, midrange and inside touch, rebounding, and floor spacing. Can finish in transition and roll in pick-and-rolls.|  
+
+		92) Trae Young. PTS: 35.7| Summary: Guard with deep shooting range, pick-and-roll creation, off-ball movement, and elite vision. Can score from multiple levels and generate spacing for teammates.|  
+
+================================================================================================================================== 
+	Query: Best BPM players 
+================================================================================================================================== 
+		1) Nikola Jokic. BPM: 9.9| Summary: An elite passing center with unmatched court vision, touch, and scoring efficiency. Controls tempo and facilitates offense through post and high-screen actions.|  
+
+		2) LeBron James. BPM: 8.7| Summary: A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.|  
+
+		3) Luka Doncic. BPM: 7.8| Summary: A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense|  
+
+		4) Joel Embiid. BPM: 7.0| Summary: A dominant two-way center with elite post scoring, midrange shooting, and interior defense. Controls tempo, spacing, and rim protection as a franchise anchor.|  
+
+		5) Chris Paul. BPM: 6.9| Summary: An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.|  
+
+		6) Kawhi Leonard. BPM: 6.7| Summary: An elite two-way forward with exceptional midrange scoring, off-ball movement, perimeter defense, and ability to create and finish in isolation.|  
+
+		7) Kevin Durant. BPM: 6.6| Summary: A super efficient scorer (clutch player) with elite shooting efficiency, advanced handle, and unmatched shot creation from all three levels. Provides strong rim protection and defensive versatility for his size.|  
+
+		8) Giannis Antetokounmpo. BPM: 6.5| Summary: Dominant forward with elite transition finishing, interior scoring, rim-running ability, ball-handling for a big, floor-spacing gravity, off-ball cutting, and playmaking for teammates in multiple offensive sets.|  
+
+		9) Stephen Curry: BPM: 6.5| Summary: A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.|  
+
+		10) James Harden. BPM: 6.5| Summary: Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.|  
+
+================================================================================================================================== 
+	Query: Best 3-point shooters with at least 4 attempts per 100 possessions (include birthday, height, weight, position, summary) 
+================================================================================================================================== 
+		1) Luke Kennard. Height_cm: 196| Position.Guard| 3Pa. 9.5| 3P%: 0.439| Summary: An elite perimeter shooter with quick release, efficient off-ball movement, secondary playmaking, and spacing gravity for team offense.|  
+
+		2) Joe Harris. Height_cm: 198| Position.Guard| 3Pa. 9.2| 3P%: 0.436| Summary: Elite catch-and-shoot specialist with deep three-point range, off-ball movement, ability to space the floor, and finishing off screens and in transition.|  
+
+		3) Seth Curry: Height_cm: 185| Position.Guard| 3Pa. 8.7| 3P%: 0.431| Summary: An elite perimeter shooter with quick release, off-ball movement, and efficient scoring off screens and spot-ups.|  
+
+		4) Stephen Curry: Height_cm: 188| Position.Guard| 3Pa. 13.1| 3P%: 0.426| Summary: A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.|  
+
+		5) Grayson Allen. Height_cm: 193| Position.Guard| 3Pa. 9.5| 3P%: 0.41300000000000003| Summary: Reliable perimeter scorer with elite catch-and-shoot mechanics, off-ball movement, ability to space the floor, and consistent scoring from beyond the arc.|  
+
+		6) Klay Thompson. Height_cm: 196| Position.Guard, Forward| 3Pa. 11.4| 3P%: 0.41300000000000003| Summary: Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.|  
+
+		7) Bryn Forbes. Height_cm: 188| Position.Guard| 3Pa. 9.9| 3P%: 0.41000000000000003| Summary: A specialist shooter with elite accuracy from deep, quick release, and strong off-ball movement to create spacing.|  
+
+		8) Joe Ingles. Height_cm: 203| Position.Forward, Guard| 3Pa. 8.6| 3P%: 0.41000000000000003| Summary: Crafty forward with elite passing, floor spacing, off-ball movement, pick-and-roll creation, and ability to facilitate scoring opportunities efficiently.|  
+
+		9) Doug McDermott. Height_cm: 198| Position.Forward| 3Pa. 8.5| 3P%: 0.41000000000000003| Summary: An elite movement shooter with quick release, off-screen scoring, and spatial awareness. Excels at floor spacing and creating gravity in half-court offense.|  
+
+		10) Michael Porter Jr.: Height_cm: 208| Position.Forward| 3Pa. 10.5| 3P%: 0.41000000000000003| Summary: A tall, smooth forward with elite shooting touch, off-ball movement, and rebounding ability. Provides efficient scoring and spacing for high-level offenses.|  
+
+================================================================================================================================== 
+	Query: Top 5 players based on Combined_ad (ORtg, DRtg, WS, BPM, VORP) 
+================================================================================================================================== 
+		1) LeBron James. ORtg: 116| DRtg: 105| BPM: 8.7| WS: 263.7| VORP: 151.9| Summary: A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.| Combined_ad. 107.08000000000001|  
+
+		2) Chris Paul. ORtg: 123| DRtg: 106| BPM: 6.9| WS: 209.4| VORP: 97.3| Summary: An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.| Combined_ad. 89.25999999999999|  
+
+		3) Kevin Durant. ORtg: 118| DRtg: 107| BPM: 6.6| WS: 170.2| VORP: 84.6| Summary: A super efficient scorer (clutch player) with elite shooting efficiency, advanced handle, and unmatched shot creation from all three levels. Provides strong rim protection and defensive versatility for his size.| Combined_ad. 77.96999999999998|  
+
+		4) James Harden. ORtg: 119| DRtg: 108| BPM: 6.5| WS: 166.4| VORP: 79.8| Summary: Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.| Combined_ad. 76.475|  
+
+		5) Stephen Curry: ORtg: 118| DRtg: 108| BPM: 6.5| WS: 135.2| VORP: 70.0| Summary: A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.| Combined_ad. 68.515|  
+
+================================================================================================================================== 
+	Query: Which school as represented most?  
+================================================================================================================================== 
+		an unknown one: 45
+
+		Kentucky: 22
+
+================================================================================================================================== 
+	Query: Creative guard with elite IQ, advanced playmaking, mastered pick-and-roll and excellent vision and control. Someone who can direct the offense 
+================================================================================================================================== 
+		1) Ja Morant. An explosive playmaking guard with elite speed, body control, and finishing at the rim. Generates offense through transition and creative pick-and-roll execution.|  
+
+		2) Spencer Dinwiddie. A creative guard with size who excels at pick-and-roll playmaking, midrange shot creation, and tempo control.|  
+
+		3) Chris Paul. An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.|  
+
+		4) Tyrese Haliburton. Elite playmaking guard with advanced vision, efficient shooting, pick-and-roll control, off-ball movement to generate spacing, ability to read defenses, and creation for teammates in multiple offensive sets.|  
+
+		5) Jordan McLaughlin. A cerebral point guard with sharp playmaking instincts, ball control, and defensive effort. Excellent at initiating offense and facilitating tempo.|  
+
+		6) Ricky Rubio. Point guard with elite vision, passing, and tempo control. Can facilitate offense efficiently and provide perimeter defense and help rotations.|  
+
+		7) Darius Garland. A quick, creative point guard with elite handle, deep shooting range, and advanced passing in pick-and-roll situations.|  
+
+		8) John Wall. Point guard with elite speed, pick-and-roll execution, finishing at the rim, and playmaking vision. Can push transition and create for teammates effectively.|  
+
+		9) Kevin Porter Jr.. A creative scoring guard with elite handle, shot creation, and finishing ability. Generates offense off isolation and pick-and-roll play.|  
+
+		10) Jalen Brunson. Composed floor general with elite footwork, midrange scoring, pick-and-roll facilitation, off-ball movement, floor-spacing efficiency, and advanced playmaking control.|  
+
+================================================================================================================================== 
+	Query: High level scorer with deadly mid-range and consistent three-point accuracy. Someone with shot creation from all levels, also under pressure. Clutch player 
+================================================================================================================================== 
+		1) Kevin Durant. A super efficient scorer (clutch player) with elite shooting efficiency, advanced handle, and unmatched shot creation from all three levels. Provides strong rim protection and defensive versatility for his size.|  
+
+		2) Paul George. An elite two-way wing with smooth shot creation, defensive versatility, and advanced scoring across all three levels.|  
+
+		3) Luka Doncic. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense|  
+
+		4) DeMar DeRozan. A skilled mid-range scorer with excellent footwork, post-up ability, and strong playmaking as a secondary facilitator.|  
+
+		5) LeBron James. A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.|  
+
+		6) Raul Neto. A veteran point guard with strong defensive fundamentals, playmaking control, and composure under pressure. Executes efficiently within structured systems.|  
+
+		7) Anthony Edwards. A high-level scoring wing with explosive athleticism, strength, and an excellent shot creation. Excellent in transition and on-ball defense.|  
+
+		8) Trae Young. Guard with deep shooting range, pick-and-roll creation, off-ball movement, and elite vision. Can score from multiple levels and generate spacing for teammates.|  
+
+		9) Jordan Nwora. A smooth wing shooter with range, size, and scoring versatility. Adds spacing, shot creation, and rebounding from the perimeter.|  
+
+		10) Bradley Beal. Elite scoring guard with three-level scoring, smooth shot mechanics, advanced footwork, off-ball movement, pick-and-roll efficiency, and floor-spacing gravity.|  
+
+================================================================================================================================== 
+	Query: Tenacious forward with strong defensive instincts and impressive rebound skills. Someone who can who can switch on multiple positions  
+================================================================================================================================== 
+		1) Dario Saric. Forward with passing skills, floor spacing, and catch-and-shoot range. Can rebound effectively and defend multiple positions in team schemes.|  
+
+		2) Anthony Gill. Versatile forward who can finish efficiently around the rim, space the floor with catch-and-shoot ability, and rotate effectively on defense.|  
+
+		3) Brandon Clarke. An explosive forward who finishes efficiently as a cutter and lob target, defends multiple positions, and provides rim protection with great timing.|  
+
+		4) Juan Toscano-Anderson. Forward with defensive versatility, energy, and hustle. Can guard multiple positions and cut/spread the floor off-ball.|  
+
+		5) Dante Exum. A long, athletic guard who defends multiple positions and contributes as a secondary playmaker and transition threat.|  
+
+		6) Luguentz Dort. A premier on-ball defender who guards elite scorers across positions while providing reliable catch-and-shoot offense.|  
+
+		7) Jahmi'us Ramsey. Athletic guard with slashing ability and finishing at the rim. Can defend multiple positions and contribute on transition.|  
+
+		8) Kelly Oubre Jr.. An athletic wing with strong slashing, transition scoring, and defensive intensity. Active on cuts and effective guarding multiple positions.|  
+
+		9) Luka Samanic. Forward with shooting touch, mobility, and spacing ability. Can roll in pick-and-rolls and switch on perimeter defense.|  
+
+		10) Jae'Sean Tate. Forward with defensive versatility, energy, and smart team basketball. Can finish at rim, defend multiple positions, and move off-ball efficiently.|  
+
+================================================================================================================================== 
+	Query: Explosive wing with exceptional speed, agility, and finishing at the rim through contact above the rim. Someone who can cut and run transitions 
+================================================================================================================================== 
+		1) Ja Morant. An explosive playmaking guard with elite speed, body control, and finishing at the rim. Generates offense through transition and creative pick-and-roll execution.|  
+
+		2) Collin Sexton. Explosive guard with strong midrange scoring, attacking the rim, and finishing through contact. Can move off-ball and create pick-and-roll opportunities.|  
+
+		3) Javonte Green. Explosive wing with high-energy defense, perimeter activity, transition scoring, cutting ability, and finishing above the rim in open-court and pick-and-roll scenarios.|  
+
+		4) John Wall. Point guard with elite speed, pick-and-roll execution, finishing at the rim, and playmaking vision. Can push transition and create for teammates effectively.|  
+
+		5) Hamidou Diallo. An explosive wing who attacks the rim in transition, rebounds well for his position, and defends with physicality.|  
+
+		6) Patrick Williams. Forward with defensive versatility, length, athleticism, and rebounding. Can cut, finish at the rim, and provide spacing gravity.|  
+
+		7) R.J. Hampton. Athletic combo guard with elite speed, slashing ability, finishing at the rim, transition scoring, and off-ball movement to exploit defensive rotations.|  
+
+		8) Mason Jones. A physical scoring guard with advanced shot creation, ability to generate contact at the rim, and efficient finishing in multiple scoring scenarios.|  
+
+		9) Zach LaVine. An elite athletic guard with explosive finishing at the rim, smooth jump shot, advanced driving ability, and off-ball movement for spacing.|  
+
+		10) Derrick Jones Jr.. An explosive wing with elite defensive versatility, rim protection from the perimeter, transition finishing, and high-flying slashing ability.|  
+
+================================================================================================================================== 
+	Query: Reliable defender with physical presence, strong rebounding instincts and rim protection. Someone who can dominate in the paint offensvely and defensevly 
+================================================================================================================================== 
+		1) DaQuan Jeffries. A strong wing defender with physicality, rebounding presence, and ability to attack the rim in transition.|  
+
+		2) Taj Gibson. A physical interior defender and strong rebounder who provides screens, toughness, and efficient finishing near the rim.|  
+
+		3) Bismack Biyombo. Physical interior defender and rim protector with elite shot-blocking timing, rebounding instincts, and ability to set screens and roll effectively.|  
+
+		4) Nick Richards. Athletic big with rim protection, finishing ability around the basket, and effective rebounding positioning. Can roll in pick-and-rolls and protect paint defensively.|  
+
+		5) Damian Jones. An athletic center with elite rim protection, verticality for shot-blocking, efficient lob finishing, and strong rebounding presence.|  
+
+		6) Alex Len. A big-bodied center with rim protection, elite interior rebounding, efficient finishing around the basket, and post presence.|  
+
+		7) Steven Adams. A dominant interior presence who excels at setting powerful screens, securing rebounds, and anchoring the paint with strength and positioning.|  
+
+		8) Nerlens Noel. A long, athletic rim protector with elite shot-blocking instincts, vertical spacing, and rebounding presence. Excels in defensive coverage and transition plays.|  
+
+		9) Mo Bamba. Long, mobile center with elite rim protection instincts, floor-spacing shooting touch, pick-and-roll roll efficiency, and vertical finishing in transition and paint.|  
+
+		10) Noah Vonleh. Forward with rebounding strength, interior finishing, and physical defense. Can roll in pick-and-rolls and protect the rim in help schemes.|  
+
+================================================================================================================================== 
+	Query: Perimeter shooter with fast release, consistent accuracy and excellent off-ball movement. Someone who can space the floor with his off-ball gravity 
+================================================================================================================================== 
+		1) Bryn Forbes. A specialist shooter with elite accuracy from deep, quick release, and strong off-ball movement to create spacing.|  
+
+		2) Luke Kennard. An elite perimeter shooter with quick release, efficient off-ball movement, secondary playmaking, and spacing gravity for team offense.|  
+
+		3) Grayson Allen. Reliable perimeter scorer with elite catch-and-shoot mechanics, off-ball movement, ability to space the floor, and consistent scoring from beyond the arc.|  
+
+		4) Tyler Dorsey. A smooth perimeter shooter with quick release, good spacing instincts, and solid off-ball movement.|  
+
+		5) Seth Curry. An elite perimeter shooter with quick release, off-ball movement, and efficient scoring off screens and spot-ups.|  
+
+		6) Mikal Bridges. Elite two-way wing with consistent perimeter shooting, off-ball movement, defensive versatility, floor-spacing gravity, and transition finishing ability.|  
+
+		7) Isaiah Joe. A perimeter shooter with quick release, deep range, and off-ball movement. Adds spacing and catch-and-shoot reliability.|  
+
+		8) Gabe Vincent. Guard with confident perimeter shooting, off-ball movement, and team defense. Can space the floor, hit spot-up threes, and cut in transition.|  
+
+		9) Rodney McGruder. A steady veteran guard who defends well on the perimeter, moves intelligently off the ball, and spaces the floor as a reliable spot-up shooter.|  
+
+		10) Doug McDermott. An elite movement shooter with quick release, off-screen scoring, and spatial awareness. Excels at floor spacing and creating gravity in half-court offense.|  
+
+================================================================================================================================== 
+	Query:  An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively 
+================================================================================================================================== 
+		1) Chris Paul. An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.|  
+
+		2) Monte Morris. A composed point guard with exceptional turnover control, efficient shooting, and steady leadership. Executes offense with precision and poise.|  
+
+		3) De'Aaron Fox. An elite speed guard with exceptional burst, downhill scoring, and midrange pull-up accuracy. Excels in transition and pick-and-roll creation.|  
+
+		4) Luka Doncic. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense|  
+
+		5) Kris Dunn. A defensive guard with quick hands, lateral speed, and on-ball pressure who initiates offense effectively in transition.|  
+
+		6) Jamal Murray. A dynamic scoring guard with elite shooting off movement, advanced footwork, and composure under pressure. Excellent pick-and-roll execution and off-ball play.|  
+
+		7) Alex Caruso. An elite perimeter defender with exceptional help instincts, quick rotations, and high basketball IQ. Offensively a smart cutter and secondary playmaker.|  
+
+		8) Kyrie Irving. An elite offensive guard with exceptional ball-handling, finishing craft, and deep shooting range. Excels in isolation, pick-and-roll creation, and clutch scoring.|  
+
+		9) Delon Wright. Guard with defensive versatility, pick-and-roll defense, passing vision, and size. Can facilitate offense, move off-ball, and cut efficiently.|  
+
+		10) Ish Smith. Point guard with speed, penetration, and passing vision. Can facilitate offense and exploit gaps in transition effectively.|  
+
+================================================================================================================================== 
+	Query: Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively. 
+================================================================================================================================== 
+		1) Klay Thompson. Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.|  
+
+		2) OG Anunoby. Premier two-way wing with elite perimeter defense, catch-and-shoot proficiency, off-ball cutting, floor-spacing gravity, and ability to guard multiple positions effectively.|  
+
+		3) Furkan Korkmaz. A confident wing shooter with elite catch-and-shoot ability, movement off screens, spacing gravity, and off-ball cutting instincts.|  
+
+		4) Kevin Huerter. Shooting guard with elite perimeter mechanics, off-ball movement, secondary playmaking skills, catch-and-shoot efficiency, and spacing gravity.|  
+
+		5) Josh Richardson. Wing with versatile on-ball and help defense, solid catch-and-shoot ability, and off-ball movement for spacing. Can cut efficiently and defend multiple positions.|  
+
+		6) Bojan Bogdanovic. Smooth-scoring forward with efficient catch-and-shoot shooting, smart off-ball movement, floor-spacing ability, and scoring versatility in motion and isolation.|  
+
+		7) Dylan Windler. Wing with catch-and-shoot ability, off-ball movement, and rebounding. Can cut efficiently and stretch the floor with shooting gravity.|  
+
+		8) Dario Saric. Forward with passing skills, floor spacing, and catch-and-shoot range. Can rebound effectively and defend multiple positions in team schemes.|  
+
+		9) Nicolas Batum. Veteran forward with elite court vision, passing feel, catch-and-shoot proficiency, off-ball movement, floor-spacing gravity, and ability to facilitate secondary offense.|  
+
+		10) Gary Trent Jr.. Guard with scoring ability, catch-and-shoot range, off-ball movement, and perimeter defense. Can attack closeouts and finish at rim.|  
+
+================================================================================================================================== 
+	Query: Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates. 
+================================================================================================================================== 
+		1) James Harden. Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.|  
+
+		2) Tyrese Haliburton. Elite playmaking guard with advanced vision, efficient shooting, pick-and-roll control, off-ball movement to generate spacing, ability to read defenses, and creation for teammates in multiple offensive sets.|  
+
+		3) Killian Hayes. Tall left-handed guard with advanced passing vision, midrange shooting, pick-and-roll facilitation, defensive activity, off-ball movement, and ability to generate spacing and opportunities for teammates.|  
+
+		4) Andre Iguodala. Defensive playmaker with passing vision, transition finishing, off-ball cutting, floor-spacing, and ability to create scoring opportunities for teammates.|  
+
+		5) Devin Booker. Elite scoring guard with advanced shot creation, off-the-dribble finishing, floor-spacing gravity, off-ball movement, and ability to create opportunities for teammates through pick-and-roll facilitation.|  
+
+		6) Fred VanVleet. Guard with strong shooting, perimeter scoring, pick-and-roll execution, and on-ball defense. Can create for teammates and generate spacing with gravity.|  
+
+		7) Trae Young. Guard with deep shooting range, pick-and-roll creation, off-ball movement, and elite vision. Can score from multiple levels and generate spacing for teammates.|  
+
+		8) Jrue Holiday. Elite two-way guard with ball-handling, passing vision, perimeter defense, finishing at the rim, off-ball movement, and ability to create spacing for teammates.|  
+
+		9) Gordon Hayward. Versatile wing with catch-and-shoot efficiency, off-ball movement, secondary playmaking, floor-spacing gravity, and ability to create scoring opportunities for teammates off penetration or screens.|  
+
+		10) Jarrell Brantley. Physical forward with high-energy defense, offensive rebounding, pick-and-roll roll efficiency, and cutting ability to generate scoring opportunities.|  
+
+================================================================================================================================== 
+	Query: Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively. 
+================================================================================================================================== 
+		1) Klay Thompson. Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.|  
+
+		2) OG Anunoby. Premier two-way wing with elite perimeter defense, catch-and-shoot proficiency, off-ball cutting, floor-spacing gravity, and ability to guard multiple positions effectively.|  
+
+		3) Furkan Korkmaz. A confident wing shooter with elite catch-and-shoot ability, movement off screens, spacing gravity, and off-ball cutting instincts.|  
+
+		4) Kevin Huerter. Shooting guard with elite perimeter mechanics, off-ball movement, secondary playmaking skills, catch-and-shoot efficiency, and spacing gravity.|  
+
+		5) Josh Richardson. Wing with versatile on-ball and help defense, solid catch-and-shoot ability, and off-ball movement for spacing. Can cut efficiently and defend multiple positions.|  
+
+		6) Bojan Bogdanovic. Smooth-scoring forward with efficient catch-and-shoot shooting, smart off-ball movement, floor-spacing ability, and scoring versatility in motion and isolation.|  
+
+		7) Dylan Windler. Wing with catch-and-shoot ability, off-ball movement, and rebounding. Can cut efficiently and stretch the floor with shooting gravity.|  
+
+		8) Dario Saric. Forward with passing skills, floor spacing, and catch-and-shoot range. Can rebound effectively and defend multiple positions in team schemes.|  
+
+		9) Nicolas Batum. Veteran forward with elite court vision, passing feel, catch-and-shoot proficiency, off-ball movement, floor-spacing gravity, and ability to facilitate secondary offense.|  
+
+		10) Gary Trent Jr.. Guard with scoring ability, catch-and-shoot range, off-ball movement, and perimeter defense. Can attack closeouts and finish at rim.|  
+
+================================================================================================================================== 
+	Query: A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles. 
+================================================================================================================================== 
+		1) LeBron James. A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.|  
+
+		2) Draymond Green. Elite defensive playmaker with anticipation, switching ability, rim protection, and playmaking as a short-roll facilitator and primary passer.|  
+
+		3) Kevin Durant. A super efficient scorer (clutch player) with elite shooting efficiency, advanced handle, and unmatched shot creation from all three levels. Provides strong rim protection and defensive versatility for his size.|  
+
+		4) Dante Exum. A long, athletic guard who defends multiple positions and contributes as a secondary playmaker and transition threat.|  
+
+		5) Luka Doncic. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense|  
+
+		6) Brandon Ingram. A tall, skilled forward with elite midrange scoring, smooth handle, and advanced shot creation. Excellent in isolation and improving as a playmaker.|  
+
+		7) Alex Caruso. An elite perimeter defender with exceptional help instincts, quick rotations, and high basketball IQ. Offensively a smart cutter and secondary playmaker.|  
+
+		8) Donovan Mitchell. An elite scoring guard with explosive first step, advanced shot creation, and defensive strength. Dominant in isolation and clutch scoring scenarios.|  
+
+		9) Frank Ntilikina. A tall, disciplined defender with length, anticipation, and versatility to guard multiple positions. Facilitates offense with composure and spacing awareness.|  
+
+		10) Isaac Okoro. A strong wing defender with elite on-ball pressure, physical strength, and cutting ability. Contributes with hustle, drives, and team defense.|  
+

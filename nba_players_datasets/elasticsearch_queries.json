@@ -1,0 +1,275 @@
+[
+    {
+        "natural_language_query": "All players (with summaries) with at least 30 points per 100 possessions",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "PTS",
+                "Summary"
+            ],
+            "size": 373,
+            "query": {
+                "range": {
+                    "PTS": {
+                        "gte": 25
+                    }
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "Best BPM players",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "BPM",
+                "Summary"
+            ],
+            "size": 10,
+            "query": {
+                "exists": {
+                    "field": "BPM"
+                }
+            },
+            "sort": [
+                {
+                    "BPM": {
+                        "order": "desc"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "natural_language_query": "Best 3-point shooters with at least 4 attempts per 100 possessions (include birthday, height, weight, position, summary)",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Height_cm",
+                "Position",
+                "3P%",
+                "3PA",
+                "Summary"
+            ],
+            "size": 10,
+            "query": {
+                "bool": {
+                    "must": [
+                        {
+                            "range": {
+                                "3PA": {
+                                    "gte": 4
+                                }
+                            }
+                        },
+                        {
+                            "range": {
+                                "3P%": {
+                                    "gte": 0.30
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                {
+                    "3P%": {
+                        "order": "desc"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "natural_language_query": "Top 5 players based on Combined_ad (ORtg, DRtg, WS, BPM, VORP)",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "ORtg",
+                "DRtg",
+                "WS",
+                "BPM",
+                "VORP",
+                "Combined_ad",
+                "Summary"
+            ],
+            "size": 5,
+            "sort": [
+                {
+                    "Combined_ad": {
+                        "order": "desc"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "natural_language_query": "Which school as represented most? ",
+        "json_format_query": {
+            "size": 0,
+            "aggs": {
+                "top_school": {
+                    "terms": {
+                        "field": "School",
+                        "size": 2
+                    }
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "Creative guard with elite IQ, advanced playmaking, mastered pick-and-roll and excellent vision and control. Someone who can direct the offense",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "Creative guard with elite IQ, advanced playmaking, mastered pick-and-roll and excellent vision and control. Someone who can direct the offense"
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "High level scorer with deadly mid-range and consistent three-point accuracy. Someone with shot creation from all levels, also under pressure. Clutch player",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "High level scorer with deadly mid-range and consistent three-point accuracy. Someone with shot creation from all levels, also under pressure. Clutch player"
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "Tenacious forward with strong defensive instincts and impressive rebound skills. Someone who can who can switch on multiple positions ",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "Tenacious forward with strong defensive instincts and impressive rebound skills. Someone who can who can switch on multiple positions "
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "Explosive wing with exceptional speed, agility, and finishing at the rim through contact above the rim. Someone who can cut and run transitions",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "Explosive wing with exceptional speed, agility, and finishing at the rim through contact above the rim. Someone who can cut and run transitions"
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "Reliable defender with physical presence, strong rebounding instincts and rim protection. Someone who can dominate in the paint offensvely and defensevly",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "Reliable defender with physical presence, strong rebounding instincts and rim protection. Someone who can dominate in the paint offensvely and defensevly"
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "Perimeter shooter with fast release, consistent accuracy and excellent off-ball movement. Someone who can space the floor with his off-ball gravity",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "Perimeter shooter with fast release, consistent accuracy and excellent off-ball movement. Someone who can space the floor with his off-ball gravity"
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": " An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively"
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively."
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates."
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively."
+                }
+            }
+        }
+    },
+    {
+        "natural_language_query": "A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.",
+        "json_format_query": {
+            "_source": [
+                "Player",
+                "Summary"
+            ],
+            "query": {
+                "match": {
+                    "Summary": "A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles."
+                }
+            }
+        }
+    }
+]

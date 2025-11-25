@@ -1,0 +1,81 @@
+1 community. List of players:
+ ['Tony Bradley', 'Clint Capela', 'Jarrett Allen', 'Rudy Gobert', 'DeAndre Jordan', 'Daniel Theis', 'Richaun Holmes', 'Moses Brown', 'Ivica Zubac', 'Jakob Poeltl', 'Nic Claxton', 'Mitchell Robinson', 'Chris Boucher', 'Daniel Gafford', 'Onyeka Okongwu', 'Jonas Valanciunas', 'Deandre Ayton', 'Goga Bitadze', 'Isaiah Hartenstein', 'Jaxson Hayes', 'Boban Marjanovic', 'Mo Bamba', 'Drew Eubanks', 'Robert Williams', 'Cody Zeller', 'Thomas Bryant', 'Wendell Carter Jr.', 'Luka Doncic', 'Gorgui Dieng', 'Mason Plumlee', 'Willy Hernangomez', 'Alex Len', 'Karl-Anthony Towns', 'Bam Adebayo', 'Dewayne Dedmon', 'JaVale McGee', 'Nick Richards', 'Brandon Clarke', 'Taj Gibson', 'LeBron James', 'Steven Adams', 'Joel Embiid', 'Giannis Antetokounmpo', 'Andre Drummond', 'Blake Griffin', 'Serge Ibaka', 'Damian Jones', 'John Collins', 'Kevin Durant', 'Kevin Love', 'Jalen Smith', 'Tristan Thompson', 'Nikola Vucevic', 'Luke Kornet', 'Pascal Siakam', 'Christian Wood', 'Khem Birch', 'Bismack Biyombo', 'Nikola Jokic', 'Kristaps Porzingis', 'Montrezl Harrell', 'Dwight Powell', 'Jayson Tatum', 'Myles Turner', 'Kevon Looney', 'Bobby Portis', 'Paul Reed', 'JaMychal Green', 'Alize Johnson', 'Brook Lopez', 'Jusuf Nurkic', 'Naz Reid', 'Anthony Davis', 'Al Horford', 'Domantas Sabonis', 'Isaiah Stewart', 'Zion Williamson', 'Bruno Fernando', 'Aaron Gordon', 'Jaren Jackson Jr.', 'Michael Porter Jr.', 'James Wiseman', 'Wenyen Gabriel', 'Kelly Olynyk', 'Marvin Bagley III', 'Bol Bol', 'Robin Lopez', 'Lauri Markkanen', 'Julius Randle', 'Chris Silva', 'Obi Toppin', 'Zach Collins', 'Danilo Gallinari', 'Nathan Knight', 'Moritz Wagner', 'Harry Giles', 'Tobias Harris']
+
+2 community. List of players:
+ ['Danuel House Jr.', 'Justin Jackson', 'Amir Coffey', 'Reggie Bullock', 'Landry Shamet', 'Malik Beasley', 'DaQuan Jeffries', 'Admiral Schofield', 'Max Strus', 'Bryn Forbes', 'Joe Harris', 'Cedi Osman', 'Yuta Watanabe', 'Dorian Finney-Smith', "De'Andre Hunter", 'Duncan Robinson', 'Kevin Huerter', 'Isaac Okoro', 'Frank Jackson', 'Isaiah Joe', 'Caleb Martin', 'Garrison Mathews', 'Georges Niang', 'Grayson Allen', 'Vlatko Cancar', 'Luguentz Dort', 'Rodney McGruder', 'Tim Hardaway Jr.', 'Luke Kennard', 'KZ Okpala', 'Seth Curry', 'Haywood Highsmith', 'Romeo Langford', 'Doug McDermott', 'Aaron Nesmith', 'Davon Reed', 'Lonnie Walker IV', 'Grant Williams', 'Harrison Barnes', 'Davis Bertans', 'Sam Merrill', "Jahmi'us Ramsey", 'Kevin Knox', 'Jalen McDaniels', 'Josh Green', 'Anthony Lamb', 'Jaylen Nowell', 'Ryan Arcidiacono', 'Keita Bates-Diop', 'Troy Brown Jr.', 'Rui Hachimura', 'Juancho Hernangomez', 'Nassir Little', 'Patrick Williams', 'Torrey Craig', 'Terance Mann', 'Jaden McDaniels', 'Dean Wade', 'Tyler Dorsey', 'P.J. Tucker', 'Pat Connaughton', 'Dylan Windler', 'Lamar Stevens', 'Anthony Gill', 'KJ Martin', 'Chuma Okeke', 'Oshae Brissett', 'Cameron Johnson', 'Damion Lee', "Royce O'Neale", 'Kenrich Williams', 'Sterling Brown', 'Mikal Bridges', 'Bruce Brown', 'Zeke Nnaji', 'Josh Okogie', 'Payton Pritchard', 'Gary Trent Jr.', 'Devin Vassell', 'Cody Martin', 'Norman Powell', 'Monte Morris', 'Jordan Nwora', 'Derrick Jones Jr.', 'Luka Samanic', 'Josh Hart', 'Juan Toscano-Anderson']
+
+3 community. List of players:
+ ['Isaiah Thomas', 'Ja Morant', 'Devin Booker', 'James Harden', 'Damian Lillard', 'Jamal Murray', "D'Angelo Russell", 'Kemba Walker', 'Bradley Beal', 'Stephen Curry', 'Kyrie Irving', 'Zach LaVine', 'Donovan Mitchell', 'Goran Dragic', "De'Aaron Fox", 'Darius Garland', 'Malik Monk', 'Jordan Poole', 'Trae Young', 'Jrue Holiday', 'Cameron Payne', 'Markelle Fultz', 'Derrick Rose', 'Ricky Rubio', 'John Wall', 'DeMar DeRozan', 'Caris LeVert', 'Dennis Schroder', 'Jordan Clarkson', 'Killian Hayes', 'Gordon Hayward', 'Ty Jerome', 'Shai Gilgeous-Alexander', 'Khris Middleton', 'Russell Westbrook', 'Kris Dunn', 'Buddy Hield', 'Kyle Lowry', 'CJ McCollum', 'T.J. McConnell', 'Marcus Smart', 'Coby White', 'Anthony Edwards', 'Talen Horton-Tucker', 'Kendrick Nunn', 'Chris Paul', 'Dennis Smith Jr.', 'Mike Conley', 'Eric Gordon', "Devonte' Graham", 'Saben Lee', 'Anfernee Simons', 'Bogdan Bogdanovic', 'Malcolm Brogdon', 'Jalen Brunson', 'Spencer Dinwiddie', 'Paul George', 'Reggie Jackson', 'Tyler Herro', 'Brandon Ingram', 'Shake Milton', 'Kevin Porter Jr.', 'Collin Sexton', 'Ben Simmons', 'RJ Barrett', 'Immanuel Quickley', 'Michael Carter-Williams', 'Mason Jones', 'Tyus Jones', 'Skylar Mays', 'Ish Smith', 'Fred VanVleet', 'Keldon Johnson', 'Tre Jones', 'Tyrese Maxey', 'Dejounte Murray', 'Victor Oladipo', 'Bojan Bogdanovic', 'Andre Iguodala', 'Tyrese Haliburton', 'Jaylen Brown', 'Jimmy Butler', 'Kyle Kuzma', 'Kawhi Leonard', 'Terry Rozier', 'Miles Bridges']
+
+4 community. List of players:
+ ['Austin Rivers', 'Svi Mykhailiuk', 'Jevon Carter', 'Gabe Vincent', 'Kobi Simmons', 'Furkan Korkmaz', 'Frank Ntilikina', 'Taurean Prince', 'Aaron Holiday', 'Kira Lewis Jr.', 'Nickeil Alexander-Walker', 'Cam Reddish', 'Jerome Robinson', 'Garrett Temple', 'Justin Holiday', 'Dillon Brooks', 'Malachi Flynn', 'R.J. Hampton', 'Charlie Brown Jr.', 'PJ Dozier', 'Theo Maledon', 'Josh Richardson', 'Theo Pinson', 'Kentavious Caldwell-Pope', 'Edmond Sumner', 'Gary Harris', 'Stanley Johnson', 'Jarrett Culver', 'Wesley Matthews', 'Cory Joseph', 'Matthew Dellavedova', 'Dante Exum', 'Deonte Burton', 'Evan Fournier', 'Raul Neto', 'Trent Forrest', 'Patty Mills', 'Terrence Ross', 'Alec Burks', 'Justise Winslow', 'Joe Ingles', 'Naji Marshall']
+
+5 community. List of players:
+ ['D.J. Wilson', 'Kyle Anderson', 'Udonis Haslem', 'Darius Bazley', 'Jarrell Brantley', 'Meyers Leonard', 'Noah Vonleh', 'Nerlens Noel', 'Jonathan Isaac', 'Mfiondu Kabengele', 'Mamadi Diakite', 'Draymond Green', 'Frank Kaminsky', 'Maxi Kleber', 'Trey Lyles', 'Marcus Morris', 'Mike Muscala', 'Jeff Green', 'Nicolas Batum', 'Aleksej Pokusevski', 'James Johnson']
+
+6 community. List of players:
+ ['Shaquille Harrison', 'Alex Caruso', "De'Anthony Melton", 'Jordan McLaughlin', 'Donte DiVincenzo', 'Delon Wright', 'Matisse Thybulle', 'Xavier Tillman Sr.', 'Gary Payton II', 'Larry Nance Jr.', 'Javonte Green', 'Nate Hinton', 'John Konchar', 'OG Anunoby', 'Jarred Vanderbilt', 'Patrick Beverley', 'Robert Covington']
+
+7 community. List of players:
+ ['Jae Crowder', 'Danny Green', 'Otto Porter Jr.']
+
+Player: Thanasis Antetokounmpo
+Summary: High-energy wing with elite defensive activity, off-ball movement, rim-finishing ability in transition, cutting, and athleticism to create scoring and spacing opportunities.
+
+Player: Kelly Oubre Jr.
+Summary: An athletic wing with strong slashing, transition scoring, and defensive intensity. Active on cuts and effective guarding multiple positions.
+
+Player: Will Barton
+Summary: Creative scoring guard with advanced off-the-dribble creation, finishing ability in transition and half-court, floor-spacing gravity, and secondary playmaking off penetration.
+
+Player: George Hill
+Summary: Veteran guard with efficient shooting, off-ball movement, perimeter defense, secondary playmaking, pick-and-roll facilitation, and floor-spacing gravity.
+
+Player: Jontay Porter
+Summary: A skilled forward/center with touch, vision, and floor-spacing potential. Provides intelligent passing and rebounding fundamentals.
+
+Player: Isaiah Roby
+Summary: Forward with spacing ability, perimeter shooting, and versatility to switch defensively. Can finish at the rim and contribute on rebounds.
+
+Player: Dario Saric
+Summary: Forward with passing skills, floor spacing, and catch-and-shoot range. Can rebound effectively and defend multiple positions in team schemes.
+
+Player: Jae'Sean Tate
+Summary: Forward with defensive versatility, energy, and smart team basketball. Can finish at rim, defend multiple positions, and move off-ball efficiently.
+
+Player: Terence Davis
+Summary: An athletic guard who excels in transition, spot-up shooting, and attacking closeouts with energy and finishing ability.
+
+Player: Klay Thompson
+Summary: Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.
+
+Player: Hamidou Diallo
+Summary: An explosive wing who attacks the rim in transition, rebounds well for his position, and defends with physicality.
+
+Player: T.J. Warren
+Summary: Forward with midrange scoring, pick-and-roll finishing, and transition attacking ability. Can create separation and score efficiently off the catch.
+
+Player: P.J. Washington
+Summary: Forward with spacing, perimeter shooting, pick-and-roll finishing, and defensive versatility. Can defend multiple positions and roll effectively in team schemes.
+
+Player: Derrick White
+Summary: Guard with defensive versatility, pick-and-roll defense, midrange scoring, and off-ball movement. Can facilitate efficiently and contribute on rotations.
+
+Player: Andrew Wiggins
+Summary: Wing with scoring efficiency, off-ball movement, transition finishing, and perimeter defense. Can switch across positions and cut effectively.
+
+Player: Chimezie Metu
+Summary: A mobile forward/center with athletic finishing, rim protection, and rebounding ability. Adds versatility with midrange touch and switch defense.
+
+Player: Rudy Gay
+Summary: Versatile forward with midrange and catch-and-shoot scoring ability, capable of creating off the dribble and finishing in transition. Can stretch the floor with spacing, move effectively off-ball, and contribute as a cutter. Provides solid defensive positioning, can switch onto multiple positions, and offers help-side awareness.
+
+Player: Markieff Morris
+Summary: A veteran big forward with interior strength, defensive versatility, and reliable catch-and-shoot spacing. Brings physicality and experience to frontcourt rotations.
+
+Player: Thaddeus Young
+Summary: Forward with IQ, screening, rebounding, and secondary playmaking. Can defend multiple positions and contribute efficiently in rotations.
+
+Player: Jerami Grant
+Summary: Long, athletic forward with perimeter shooting, transition scoring, and defensive versatility across multiple positions.
+

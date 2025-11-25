@@ -1,0 +1,72 @@
+version: '3.8'
+name: search_engine
+services:
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.2
+    container_name: elasticsearch
+    environment:
+      - node.name=es01
+      - cluster.name=docker-cluster
+      - discovery.type=single-node
+      #- ELASTIC_PASSWORD=********
+      - xpack.security.enabled=false  # disabled security (no https)
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms1g -Xmx1g"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    #volumes:
+     # - es_data:/usr/share/elasticsearch/data
+    ports:
+      - "9200:9200" # http
+      - "9300:9300" #transport (interna custer)
+  
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.11.2
+    container_name: kibana
+    environment:
+      ELASTICSEARCH_HOSTS: "http://elasticsearch:9200"
+    ports:
+      - "5601:5601"
+    depends_on:
+      - "elasticsearch"
+
+  weaviate:
+    image: semitechnologies/weaviate:latest
+    container_name: weaviate
+    environment:
+      QUERY_DEFAULTS_LIMIT: 20
+      #ENABLE_API: "true"
+      PERSISTENCE_DATA_PATH: "/var/lib/weaviate"
+      DEFAULT_VECTORIZER_MODULE: text2vec-transformers
+      ENABLE_MODULES: text2vec-transformers
+      TRANSFORMERS_INFERENCE_API: http://t2v-transformers:8080
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: "true"
+      ENABLE_GRPC: "true"
+    depends_on:
+    - text2vec-transformers
+    ports:
+      - "8080:8080"
+      - "50051:50051"
+    #volumes:
+      #- weaviate_data:/var/lib/weaviate
+
+  text2vec-transformers:
+    container_name: t2v-transformers
+    image: cr.weaviate.io/semitechnologies/transformers-inference:sentence-transformers-multi-qa-MiniLM-L6-cos-v1
+    environment:
+      ENABLE_CUDA: 0 # set to 1 to enable
+      # NVIDIA_VISIBLE_DEVICES: all # enable if running with CUDA
+    ports:
+      - "8081:8080"
+
+
+# volumes:
+  # es_data:
+    # driver: local
+  # weaviate_data:
+    # driver: local
+
+    

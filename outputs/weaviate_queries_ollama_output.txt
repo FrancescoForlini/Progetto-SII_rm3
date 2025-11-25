@@ -1,0 +1,489 @@
+
+	1 query: Creative guard with elite IQ, advanced playmaking, mastered pick-and-roll and excellent vision and control. Someone who can direct the offense 
+	1) Chris Paul born on May 6, 1985. An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.
+	2) Spencer Dinwiddie born on April 6, 1993. A creative guard with size who excels at pick-and-roll playmaking, midrange shot creation, and tempo control.
+	3) Ja Morant born on August 10, 1999. An explosive playmaking guard with elite speed, body control, and finishing at the rim. Generates offense through transition and creative pick-and-roll execution.
+	4) Tyrese Haliburton born on February 29, 2000. Elite playmaking guard with advanced vision, efficient shooting, pick-and-roll control, off-ball movement to generate spacing, ability to read defenses, and creation for teammates in multiple offensive sets.
+	5) Kevin Porter Jr. born on May 4, 2000. A creative scoring guard with elite handle, shot creation, and finishing ability. Generates offense off isolation and pick-and-roll play.
+	6) Darius Garland born on January 26, 2000. A quick, creative point guard with elite handle, deep shooting range, and advanced passing in pick-and-roll situations.
+	7) Jordan McLaughlin born on April 9, 1996. A cerebral point guard with sharp playmaking instincts, ball control, and defensive effort. Excellent at initiating offense and facilitating tempo.
+	8) Jamal Murray born on February 23, 1997. A dynamic scoring guard with elite shooting off movement, advanced footwork, and composure under pressure. Excellent pick-and-roll execution and off-ball play.
+	9) T.J. McConnell born on March 25, 1992. A high-energy point guard with elite hustle, anticipation on defense, and strong playmaking in short-roll actions. Excellent in generating steals and tempo control.
+	10) Stephen Curry born on March 14, 1988. A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.
+	11) Ricky Rubio born on October 21, 1990. Point guard with elite vision, passing, and tempo control. Can facilitate offense efficiently and provide perimeter defense and help rotations.
+	12) Delon Wright born on April 26, 1992. Guard with defensive versatility, pick-and-roll defense, passing vision, and size. Can facilitate offense, move off-ball, and cut efficiently.
+	13) Luka Doncic born on February 28, 1999. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense
+	14) Kyle Anderson born on September 20, 1993. High-IQ forward with elite vision, pick-and-roll facilitation, tempo control, off-ball cutting, spacing creation, and versatile scoring in isolation and post-up situations.
+	15) Jalen Brunson born on August 31, 1996. Composed floor general with elite footwork, midrange scoring, pick-and-roll facilitation, off-ball movement, floor-spacing efficiency, and advanced playmaking control.
+	16) Marcus Smart born on March 6, 1994. Guard with elite perimeter defense, playmaking, and clutch scoring. Can facilitate for teammates, defend multiple positions, and control pace.
+	17) Markelle Fultz born on May 29, 1998. A crafty slashing guard with elite body control, strong finishing through contact, and advanced passing instincts.
+	18) Theo Maledon born on June 12, 2001. A tall point guard with good vision, ball control, half-court composure, and pick-and-roll facilitation.
+	19) Jimmy Butler born on September 14, 1989. An elite two-way wing and floor leader who excels at creating his own shot, facilitating offense, and defending top perimeter threats. Thrives in isolation, post play, and late-game situations with high basketball IQ and control.
+	20) John Wall born on September 6, 1990. Point guard with elite speed, pick-and-roll execution, finishing at the rim, and playmaking vision. Can push transition and create for teammates effectively.
+
+	2 query: High level scorer with deadly mid-range and consistent three-point accuracy. Someone with shot creation from all levels, also under pressure. Clutch player
+	1) Kevin Durant born on September 29, 1988. A super efficient scorer (clutch player) with elite shooting efficiency, advanced handle, and unmatched shot creation from all three levels. Provides strong rim protection and defensive versatility for his size.
+	2) Paul George born on May 2, 1990. An elite two-way wing with smooth shot creation, defensive versatility, and advanced scoring across all three levels.
+	3) Anthony Edwards born on August 5, 2001. A high-level scoring wing with explosive athleticism, strength, and an excellent shot creation. Excellent in transition and on-ball defense.
+	4) Luka Doncic born on February 28, 1999. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense
+	5) Donovan Mitchell born on September 7, 1996. An elite scoring guard with explosive first step, advanced shot creation, and defensive strength. Dominant in isolation and clutch scoring scenarios.
+	6) DeMar DeRozan born on August 7, 1989. A skilled mid-range scorer with excellent footwork, post-up ability, and strong playmaking as a secondary facilitator.
+	7) Norman Powell born on May 25, 1993. A strong scoring guard with efficient three-point shooting, attacking ability, and transition finishing. Defends physically and spaces the floor.
+	8) Jordan Nwora born on September 9, 1998. A smooth wing shooter with range, size, and scoring versatility. Adds spacing, shot creation, and rebounding from the perimeter.
+	9) Damian Lillard born on July 15, 1990. An elite scoring guard with deep shooting range, clutch shot-making, pick-and-roll command, off-ball movement, and floor-spacing gravity.
+	10) Brandon Ingram born on September 2, 1997. A tall, skilled forward with elite midrange scoring, smooth handle, and advanced shot creation. Excellent in isolation and improving as a playmaker.
+	11) Bryn Forbes born on July 23, 1993. A specialist shooter with elite accuracy from deep, quick release, and strong off-ball movement to create spacing.
+	12) LeBron James born on December 30, 1984. A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.
+	13) Kyrie Irving born on March 23, 1992. An elite offensive guard with exceptional ball-handling, finishing craft, and deep shooting range. Excels in isolation, pick-and-roll creation, and clutch scoring.
+	14) Buddy Hield born on December 17, 1992. Premier three-point specialist with deep range, quick release, off-ball movement, spacing efficiency, and ability to finish off screens and in transition.
+	15) Bobby Portis born on February 10, 1995. A high-energy forward with strong rebounding, midrange shooting, and physical interior play. Brings toughness and scoring from the frontcourt.
+	16) Khris Middleton born on August 12, 1991. A polished wing scorer with smooth shooting, midrange mastery, and playmaking ability. Defensively disciplined and effective in structured systems.
+	17) De'Aaron Fox born on December 20, 1997. An elite speed guard with exceptional burst, downhill scoring, and midrange pull-up accuracy. Excels in transition and pick-and-roll creation.
+	18) Jordan Poole born on June 19, 1999. A dynamic scoring guard with deep range, advanced shot creation, and quick first step. Effective in transition and off-ball scoring actions.
+	19) Garrison Mathews born on October 24, 1996. A confident perimeter shooter with deep range, quick release, and ability to draw fouls on closeouts. Competes with high energy on defense and provides spacing value.
+	20) Raul Neto born on May 19, 1992. A veteran point guard with strong defensive fundamentals, playmaking control, and composure under pressure. Executes efficiently within structured systems.
+
+	3 query: Tenacious forward with strong defensive instincts and impressive rebound skills. Someone who can who can switch on multiple positions 
+	1) Dario Saric born on April 8, 1994. Forward with passing skills, floor spacing, and catch-and-shoot range. Can rebound effectively and defend multiple positions in team schemes.
+	2) James Johnson born on February 20, 1987. A strong, versatile forward with defensive toughness, handling ability, and transition finishing. Provides physical presence and switch defense.
+	3) Juan Toscano-Anderson born on April 10, 1993. Forward with defensive versatility, energy, and hustle. Can guard multiple positions and cut/spread the floor off-ball.
+	4) Jonathan Isaac born on October 3, 1997. A long, athletic forward with elite defensive versatility, rim protection, and switchability across multiple positions. Provides transition finishing and secondary rebounding.
+	5) Brandon Clarke born on September 19, 1996. An explosive forward who finishes efficiently as a cutter and lob target, defends multiple positions, and provides rim protection with great timing.
+	6) Jalen McDaniels born on January 31, 1998. A versatile forward with strong cutting instincts, defensive mobility, and rebounding activity. Provides spacing and energy in hybrid forward roles.
+	7) Michael Carter-Williams born on October 10, 1991. A tall guard with good defensive instincts, solid passing vision, and the ability to facilitate offense from multiple positions.
+	8) Royce O'Neale born on June 5, 1993. A defensive specialist with strong positional awareness, rebounding, and consistent perimeter shooting. Provides toughness and versatility in switch-heavy schemes.
+	9) Jalen Smith born on March 16, 2000. Forward with rebounding, size, and midrange scoring. Can defend multiple positions and rotate effectively in team defense.
+	10) Kelly Oubre Jr. born on December 9, 1995. An athletic wing with strong slashing, transition scoring, and defensive intensity. Active on cuts and effective guarding multiple positions.
+	11) KZ Okpala born on April 28, 1999. A long, athletic forward with defensive versatility, rebounding effort, and transition finishing. Effective in switch coverage and off-ball movement.
+	12) Jae Crowder born on July 6, 1990. A physical forward who provides leadership, strong positional defense, and consistent spot-up shooting from deep.
+	13) Terance Mann born on October 18, 1996. A versatile guard/forward with defensive switchability, slashing ability, transition finishing, and off-ball cutting skills.
+	14) Dante Exum born on July 13, 1995. A long, athletic guard who defends multiple positions and contributes as a secondary playmaker and transition threat.
+	15) P.J. Tucker born on May 5, 1985. Forward with corner shooting, physical defense, and switchability. Can set screens, cut, and defend multiple positions effectively.
+	16) Taj Gibson born on June 24, 1985. A physical interior defender and strong rebounder who provides screens, toughness, and efficient finishing near the rim.
+	17) Dorian Finney-Smith born on May 4, 1993. A two-way forward who excels as a perimeter defender, rebounder, and consistent catch-and-shoot option from deep.
+	18) Jae'Sean Tate born on October 28, 1995. Forward with defensive versatility, energy, and smart team basketball. Can finish at rim, defend multiple positions, and move off-ball efficiently.
+	19) Thaddeus Young born on June 21, 1988. Forward with IQ, screening, rebounding, and secondary playmaking. Can defend multiple positions and contribute efficiently in rotations.
+	20) John Collins born on September 23, 1997. A powerful, athletic forward who spaces the floor as a pick-and-pop threat, finishes lob plays, and rebounds effectively on both ends.
+
+	4 query: Explosive wing with exceptional speed, agility, and finishing at the rim through contact above the rim. Someone who can cut and run transitions
+	1) Keldon Johnson born on October 11, 1999. A powerful wing with downhill driving, rebounding, and finishing through contact. Brings energy and physicality in both ends.
+	2) Collin Sexton born on January 4, 1999. Explosive guard with strong midrange scoring, attacking the rim, and finishing through contact. Can move off-ball and create pick-and-roll opportunities.
+	3) Hamidou Diallo born on July 31, 1998. An explosive wing who attacks the rim in transition, rebounds well for his position, and defends with physicality.
+	4) Ja Morant born on August 10, 1999. An explosive playmaking guard with elite speed, body control, and finishing at the rim. Generates offense through transition and creative pick-and-roll execution.
+	5) Javonte Green born on July 23, 1993. Explosive wing with high-energy defense, perimeter activity, transition scoring, cutting ability, and finishing above the rim in open-court and pick-and-roll scenarios.
+	6) Derrick Jones Jr. born on February 15, 1997. An explosive wing with elite defensive versatility, rim protection from the perimeter, transition finishing, and high-flying slashing ability.
+	7) Miles Bridges born on March 21, 1998. Explosive athletic wing with elite slashing ability, rim-finishing, transition scoring, pick-and-roll effectiveness, and off-ball movement to create spacing.
+	8) Jaylen Brown born on October 24, 1996. Powerful athletic wing with elite slashing ability, finishing through contact, off-ball cutting, transition scoring, and secondary playmaking off penetration.
+	9) Dillon Brooks born on January 22, 1996. Strong two-way wing with on-ball defense, physical scoring through contact, off-ball cutting, pick-and-roll finishing, and transition aggression.
+	10) Lamar Stevens born on July 9, 1997. Forward with finishing through contact, rebounding, and defensive versatility. Can set screens and roll effectively in pick-and-rolls.
+	11) Zion Williamson born on July 6, 2000. Forward with explosive finishing, transition scoring, rim protection, and pick-and-roll rolls. Can create for teammates and space the floor with gravity.
+	12) Andrew Wiggins born on February 23, 1995. Wing with scoring efficiency, off-ball movement, transition finishing, and perimeter defense. Can switch across positions and cut effectively.
+	13) Brandon Clarke born on September 19, 1996. An explosive forward who finishes efficiently as a cutter and lob target, defends multiple positions, and provides rim protection with great timing.
+	14) RJ Barrett born on June 14, 2000. Strong slashing wing with size and athleticism, ability to finish through contact, off-ball cutting, pick-and-roll scoring, and midrange creation.
+	15) Onyeka Okongwu born on December 11, 2000. A mobile big with elite defensive instincts, rim protection, and switch agility. Finishes efficiently as a roller and rebounder.
+	16) Zach LaVine born on March 10, 1995. An elite athletic guard with explosive finishing at the rim, smooth jump shot, advanced driving ability, and off-ball movement for spacing.
+	17) Markelle Fultz born on May 29, 1998. A crafty slashing guard with elite body control, strong finishing through contact, and advanced passing instincts.
+	18) Matisse Thybulle born on March 4, 1997. Wing with elite perimeter defense, on-ball pressure, and help rotations. Can cut and finish in transition and provide spacing gravity.
+	19) De'Aaron Fox born on December 20, 1997. An elite speed guard with exceptional burst, downhill scoring, and midrange pull-up accuracy. Excels in transition and pick-and-roll creation.
+	20) Anthony Edwards born on August 5, 2001. A high-level scoring wing with explosive athleticism, strength, and an excellent shot creation. Excellent in transition and on-ball defense.
+
+	5 query: Reliable defender with physical presence, strong rebounding instincts and rim protection. Someone who can dominate in the paint offensvely and defensevly 
+	1) Taj Gibson born on June 24, 1985. A physical interior defender and strong rebounder who provides screens, toughness, and efficient finishing near the rim.
+	2) DaQuan Jeffries born on August 30, 1997. A strong wing defender with physicality, rebounding presence, and ability to attack the rim in transition.
+	3) Damian Jones born on June 30, 1995. An athletic center with elite rim protection, verticality for shot-blocking, efficient lob finishing, and strong rebounding presence.
+	4) Bismack Biyombo born on August 28, 1992. Physical interior defender and rim protector with elite shot-blocking timing, rebounding instincts, and ability to set screens and roll effectively.
+	5) Steven Adams born on July 20, 1993. A dominant interior presence who excels at setting powerful screens, securing rebounds, and anchoring the paint with strength and positioning.
+	6) Wenyen Gabriel born on March 26, 1997. A high-energy forward with rebounding presence, rim protection, and mobility to defend multiple frontcourt spots.
+	7) Andre Drummond born on August 10, 1993. A dominant rebounder and interior finisher who controls the paint with strength, screens, and rim-running ability.
+	8) Mfiondu Kabengele born on August 14, 1997. A mobile forward/center with rim protection, energy for transition finishing, verticality for lob opportunities, and strong interior presence.
+	9) James Johnson born on February 20, 1987. A strong, versatile forward with defensive toughness, handling ability, and transition finishing. Provides physical presence and switch defense.
+	10) Luguentz Dort born on April 19, 1999. A premier on-ball defender who guards elite scorers across positions while providing reliable catch-and-shoot offense.
+	11) Nerlens Noel born on April 10, 1994. A long, athletic rim protector with elite shot-blocking instincts, vertical spacing, and rebounding presence. Excels in defensive coverage and transition plays.
+	12) Alex Len born on June 16, 1993. A big-bodied center with rim protection, elite interior rebounding, efficient finishing around the basket, and post presence.
+	13) Bruno Fernando born on August 15, 1998. A powerful interior player with strong rebounding, rim finishing, and shot-blocking instincts.
+	14) Nathan Knight born on September 20, 1997. A strong interior player with effective rebounding, post finishing, physical screening, and energy-driven play around the rim.
+	15) DeAndre Jordan born on July 21, 1988. A veteran center with elite rim protection, rebounding dominance, efficient lob finishing, and interior positioning to control the paint.
+	16) Jae Crowder born on July 6, 1990. A physical forward who provides leadership, strong positional defense, and consistent spot-up shooting from deep.
+	17) Nick Richards born on November 29, 1997. Athletic big with rim protection, finishing ability around the basket, and effective rebounding positioning. Can roll in pick-and-rolls and protect paint defensively.
+	18) Isaac Okoro born on January 26, 2001. A strong wing defender with elite on-ball pressure, physical strength, and cutting ability. Contributes with hustle, drives, and team defense.
+	19) Robert Covington born on December 14, 1990. A switchable defender with excellent length, anticipation, and help-side rim protection, while spacing the floor as a consistent catch-and-shoot forward.
+	20) Josh Okogie born on September 1, 1998. A high-energy defender with elite lateral quickness, strength, and hustle. Effective on-ball stopper who pressures passing lanes and attacks the rim.
+
+	6 query: Perimeter shooter with fast release, consistent accuracy and excellent off-ball movement. Someone who can space the floor with his off-ball gravity
+	1) Luke Kennard born on June 24, 1996. An elite perimeter shooter with quick release, efficient off-ball movement, secondary playmaking, and spacing gravity for team offense.
+	2) Bryn Forbes born on July 23, 1993. A specialist shooter with elite accuracy from deep, quick release, and strong off-ball movement to create spacing.
+	3) Tyler Dorsey born on February 18, 1996. A smooth perimeter shooter with quick release, good spacing instincts, and solid off-ball movement.
+	4) Isaiah Joe born on July 2, 1999. A perimeter shooter with quick release, deep range, and off-ball movement. Adds spacing and catch-and-shoot reliability.
+	5) Seth Curry born on August 23, 1990. An elite perimeter shooter with quick release, off-ball movement, and efficient scoring off screens and spot-ups.
+	6) Doug McDermott born on January 3, 1992. An elite movement shooter with quick release, off-screen scoring, and spatial awareness. Excels at floor spacing and creating gravity in half-court offense.
+	7) Grayson Allen born on October 8, 1995. Reliable perimeter scorer with elite catch-and-shoot mechanics, off-ball movement, ability to space the floor, and consistent scoring from beyond the arc.
+	8) Mikal Bridges born on August 30, 1996. Elite two-way wing with consistent perimeter shooting, off-ball movement, defensive versatility, floor-spacing gravity, and transition finishing ability.
+	9) Malik Beasley born on November 26, 1996. High-volume perimeter shooter with elite catch-and-shoot mechanics, floor-spacing efficiency, off-ball movement, and ability to finish off screens.
+	10) Rodney McGruder born on July 29, 1991. A steady veteran guard who defends well on the perimeter, moves intelligently off the ball, and spaces the floor as a reliable spot-up shooter.
+	11) Gabe Vincent born on June 14, 1996. Guard with confident perimeter shooting, off-ball movement, and team defense. Can space the floor, hit spot-up threes, and cut in transition.
+	12) Damion Lee born on October 21, 1992. A reliable spot-up shooter with intelligent off-ball movement, floor-spacing efficiency, and transition scoring capability.
+	13) Kobi Simmons born on July 4, 1997. Athletic guard with slashing ability, finishing at the rim, and perimeter defense. Can space floor with occasional off-ball shooting.
+	14) Sam Merrill born on May 15, 1996. A pure shooter with elite mechanics, movement efficiency, and floor-spacing ability. Contributes with smart positioning and off-ball activity.
+	15) Furkan Korkmaz born on July 24, 1997. A confident wing shooter with elite catch-and-shoot ability, movement off screens, spacing gravity, and off-ball cutting instincts.
+	16) Justin Jackson born on March 28, 1995. A tall wing with consistent shooting mechanics, good off-ball movement, and floor spacing value in catch-and-shoot situations.
+	17) Evan Fournier born on October 29, 1992. A smooth perimeter scorer with strong off-ball movement, catch-and-shoot efficiency, and ability to create off screens.
+	18) Patty Mills born on August 11, 1988. A veteran guard with elite perimeter shooting, quick release, and high basketball IQ. Provides energy, off-ball movement, and veteran leadership.
+	19) Trey Lyles born on November 5, 1995. A stretch forward with consistent perimeter shooting, physical interior play, rebounding, and off-ball movement to generate spacing.
+	20) Garrison Mathews born on October 24, 1996. A confident perimeter shooter with deep range, quick release, and ability to draw fouls on closeouts. Competes with high energy on defense and provides spacing value.
+
+	7 query: An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.
+	1) Chris Paul born on May 6, 1985. An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.
+	2) De'Aaron Fox born on December 20, 1997. An elite speed guard with exceptional burst, downhill scoring, and midrange pull-up accuracy. Excels in transition and pick-and-roll creation.
+	3) Jamal Murray born on February 23, 1997. A dynamic scoring guard with elite shooting off movement, advanced footwork, and composure under pressure. Excellent pick-and-roll execution and off-ball play.
+	4) Kyrie Irving born on March 23, 1992. An elite offensive guard with exceptional ball-handling, finishing craft, and deep shooting range. Excels in isolation, pick-and-roll creation, and clutch scoring.
+	5) CJ McCollum born on September 19, 1991. A smooth scoring guard with elite midrange shooting, advanced handle, and off-ball movement. Creates efficiently from pick-and-roll and isolation situations.
+	6) Monte Morris born on June 27, 1995. A composed point guard with exceptional turnover control, efficient shooting, and steady leadership. Executes offense with precision and poise.
+	7) Michael Carter-Williams born on October 10, 1991. A tall guard with good defensive instincts, solid passing vision, and the ability to facilitate offense from multiple positions.
+	8) Luka Doncic born on February 28, 1999. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense
+	9) Patty Mills born on August 11, 1988. A veteran guard with elite perimeter shooting, quick release, and high basketball IQ. Provides energy, off-ball movement, and veteran leadership.
+	10) Tre Jones born on January 8, 2000. A steady point guard with elite floor control, on-ball defensive activity, efficient decision-making, and mastery in tempo management and pick-and-roll execution.
+	11) Jevon Carter born on September 14, 1995. A defensive-minded guard with elite on-ball pressure, quick hands, and reliable spot-up shooting from the perimeter.
+	12) Kevin Porter Jr. born on May 4, 2000. A creative scoring guard with elite handle, shot creation, and finishing ability. Generates offense off isolation and pick-and-roll play.
+	13) Kris Dunn born on March 18, 1994. A defensive guard with quick hands, lateral speed, and on-ball pressure who initiates offense effectively in transition.
+	14) Alex Caruso born on February 28, 1994. An elite perimeter defender with exceptional help instincts, quick rotations, and high basketball IQ. Offensively a smart cutter and secondary playmaker.
+	15) Dejounte Murray born on September 19, 1996. A long, athletic guard with elite rebounding, midrange control, and defensive impact. Creates off the dribble and guards multiple positions effectively.
+	16) Nikola Jokic born on February 19, 1995. An elite passing center with unmatched court vision, touch, and scoring efficiency. Controls tempo and facilitates offense through post and high-screen actions.
+	17) Spencer Dinwiddie born on April 6, 1993. A creative guard with size who excels at pick-and-roll playmaking, midrange shot creation, and tempo control.
+	18) John Konchar born on March 22, 1996. A high-IQ guard with strong rebounding for size, efficient shooting, disciplined defensive positioning, and smart off-ball movement.
+	19) Garrett Temple born on May 8, 1986. Veteran guard with defensive awareness, team IQ, and perimeter spacing. Can cut effectively and provide energy off the ball.
+	20) Ty Jerome born on July 8, 1997. A high-IQ guard with elite shooting accuracy, smart playmaking, and efficient decision-making in half-court sets.
+
+	8 query: Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.
+	1) Klay Thompson born on February 8, 1990. Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.
+	2) Stephen Curry born on March 14, 1988. A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.
+	3) CJ McCollum born on September 19, 1991. A smooth scoring guard with elite midrange shooting, advanced handle, and off-ball movement. Creates efficiently from pick-and-roll and isolation situations.
+	4) Furkan Korkmaz born on July 24, 1997. A confident wing shooter with elite catch-and-shoot ability, movement off screens, spacing gravity, and off-ball cutting instincts.
+	5) Dylan Windler born on September 22, 1996. Wing with catch-and-shoot ability, off-ball movement, and rebounding. Can cut efficiently and stretch the floor with shooting gravity.
+	6) OG Anunoby born on July 17, 1997. Premier two-way wing with elite perimeter defense, catch-and-shoot proficiency, off-ball cutting, floor-spacing gravity, and ability to guard multiple positions effectively.
+	7) Damian Lillard born on July 15, 1990. An elite scoring guard with deep shooting range, clutch shot-making, pick-and-roll command, off-ball movement, and floor-spacing gravity.
+	8) Landry Shamet born on March 13, 1997. Shooting guard with deep range, off-ball movement, and spacing ability. Effective in catch-and-shoot situations and cutting off screens.
+	9) Duncan Robinson born on April 22, 1994. Elite catch-and-shoot guard with deep range and spacing impact. Moves well off the ball and sets effective screens for teammates.
+	10) Josh Richardson born on September 15, 1993. Wing with versatile on-ball and help defense, solid catch-and-shoot ability, and off-ball movement for spacing. Can cut efficiently and defend multiple positions.
+	11) Dejounte Murray born on September 19, 1996. A long, athletic guard with elite rebounding, midrange control, and defensive impact. Creates off the dribble and guards multiple positions effectively.
+	12) Jordan Poole born on June 19, 1999. A dynamic scoring guard with deep range, advanced shot creation, and quick first step. Effective in transition and off-ball scoring actions.
+	13) Kevin Huerter born on August 27, 1998. Shooting guard with elite perimeter mechanics, off-ball movement, secondary playmaking skills, catch-and-shoot efficiency, and spacing gravity.
+	14) Luke Kennard born on June 24, 1996. An elite perimeter shooter with quick release, efficient off-ball movement, secondary playmaking, and spacing gravity for team offense.
+	15) Jamal Murray born on February 23, 1997. A dynamic scoring guard with elite shooting off movement, advanced footwork, and composure under pressure. Excellent pick-and-roll execution and off-ball play.
+	16) Justin Jackson born on March 28, 1995. A tall wing with consistent shooting mechanics, good off-ball movement, and floor spacing value in catch-and-shoot situations.
+	17) Coby White born on February 16, 2000. Guard with speed, pull-up shooting, and off-ball movement. Can attack closeouts, finish in transition, and generate spacing with gravity.
+	18) Romeo Langford born on October 25, 1999. A long, athletic guard with slashing ability, defensive versatility, transition scoring, and off-ball movement to create spacing opportunities.
+	19) Bojan Bogdanovic born on April 18, 1989. Smooth-scoring forward with efficient catch-and-shoot shooting, smart off-ball movement, floor-spacing ability, and scoring versatility in motion and isolation.
+	20) Bradley Beal born on June 28, 1993. Elite scoring guard with three-level scoring, smooth shot mechanics, advanced footwork, off-ball movement, pick-and-roll efficiency, and floor-spacing gravity.
+
+	9 query: Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.
+	1) James Harden born on August 26, 1989. Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.
+	2) Devin Booker born on October 30, 1996. Elite scoring guard with advanced shot creation, off-the-dribble finishing, floor-spacing gravity, off-ball movement, and ability to create opportunities for teammates through pick-and-roll facilitation.
+	3) Trae Young born on September 19, 1998. Guard with deep shooting range, pick-and-roll creation, off-ball movement, and elite vision. Can score from multiple levels and generate spacing for teammates.
+	4) Tyrese Haliburton born on February 29, 2000. Elite playmaking guard with advanced vision, efficient shooting, pick-and-roll control, off-ball movement to generate spacing, ability to read defenses, and creation for teammates in multiple offensive sets.
+	5) Fred VanVleet born on February 25, 1994. Guard with strong shooting, perimeter scoring, pick-and-roll execution, and on-ball defense. Can create for teammates and generate spacing with gravity.
+	6) Stephen Curry born on March 14, 1988. A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.
+	7) Killian Hayes born on July 27, 2001. Tall left-handed guard with advanced passing vision, midrange shooting, pick-and-roll facilitation, defensive activity, off-ball movement, and ability to generate spacing and opportunities for teammates.
+	8) Bradley Beal born on June 28, 1993. Elite scoring guard with three-level scoring, smooth shot mechanics, advanced footwork, off-ball movement, pick-and-roll efficiency, and floor-spacing gravity.
+	9) Joe Ingles born on October 2, 1987. Crafty forward with elite passing, floor spacing, off-ball movement, pick-and-roll creation, and ability to facilitate scoring opportunities efficiently.
+	10) Jrue Holiday born on June 12, 1990. Elite two-way guard with ball-handling, passing vision, perimeter defense, finishing at the rim, off-ball movement, and ability to create spacing for teammates.
+	11) Kyrie Irving born on March 23, 1992. An elite offensive guard with exceptional ball-handling, finishing craft, and deep shooting range. Excels in isolation, pick-and-roll creation, and clutch scoring.
+	12) CJ McCollum born on September 19, 1991. A smooth scoring guard with elite midrange shooting, advanced handle, and off-ball movement. Creates efficiently from pick-and-roll and isolation situations.
+	13) Zion Williamson born on July 6, 2000. Forward with explosive finishing, transition scoring, rim protection, and pick-and-roll rolls. Can create for teammates and space the floor with gravity.
+	14) Kevin Porter Jr. born on May 4, 2000. A creative scoring guard with elite handle, shot creation, and finishing ability. Generates offense off isolation and pick-and-roll play.
+	15) Tyler Herro born on January 20, 2000. Creative scoring guard with elite shooting mechanics, off-the-dribble creation, floor-spacing gravity, secondary playmaking, and off-ball movement to generate open looks.
+	16) Donovan Mitchell born on September 7, 1996. An elite scoring guard with explosive first step, advanced shot creation, and defensive strength. Dominant in isolation and clutch scoring scenarios.
+	17) Andre Iguodala born on January 28, 1984. Defensive playmaker with passing vision, transition finishing, off-ball cutting, floor-spacing, and ability to create scoring opportunities for teammates.
+	18) Doug McDermott born on January 3, 1992. An elite movement shooter with quick release, off-screen scoring, and spatial awareness. Excels at floor spacing and creating gravity in half-court offense.
+	19) Damian Lillard born on July 15, 1990. An elite scoring guard with deep shooting range, clutch shot-making, pick-and-roll command, off-ball movement, and floor-spacing gravity.
+	20) Kyle Anderson born on September 20, 1993. High-IQ forward with elite vision, pick-and-roll facilitation, tempo control, off-ball cutting, spacing creation, and versatile scoring in isolation and post-up situations.
+
+	10 query: Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.
+	1) Klay Thompson born on February 8, 1990. Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.
+	2) Stephen Curry born on March 14, 1988. A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.
+	3) CJ McCollum born on September 19, 1991. A smooth scoring guard with elite midrange shooting, advanced handle, and off-ball movement. Creates efficiently from pick-and-roll and isolation situations.
+	4) Furkan Korkmaz born on July 24, 1997. A confident wing shooter with elite catch-and-shoot ability, movement off screens, spacing gravity, and off-ball cutting instincts.
+	5) Dylan Windler born on September 22, 1996. Wing with catch-and-shoot ability, off-ball movement, and rebounding. Can cut efficiently and stretch the floor with shooting gravity.
+	6) OG Anunoby born on July 17, 1997. Premier two-way wing with elite perimeter defense, catch-and-shoot proficiency, off-ball cutting, floor-spacing gravity, and ability to guard multiple positions effectively.
+	7) Damian Lillard born on July 15, 1990. An elite scoring guard with deep shooting range, clutch shot-making, pick-and-roll command, off-ball movement, and floor-spacing gravity.
+	8) Landry Shamet born on March 13, 1997. Shooting guard with deep range, off-ball movement, and spacing ability. Effective in catch-and-shoot situations and cutting off screens.
+	9) Duncan Robinson born on April 22, 1994. Elite catch-and-shoot guard with deep range and spacing impact. Moves well off the ball and sets effective screens for teammates.
+	10) Josh Richardson born on September 15, 1993. Wing with versatile on-ball and help defense, solid catch-and-shoot ability, and off-ball movement for spacing. Can cut efficiently and defend multiple positions.
+	11) Dejounte Murray born on September 19, 1996. A long, athletic guard with elite rebounding, midrange control, and defensive impact. Creates off the dribble and guards multiple positions effectively.
+	12) Jordan Poole born on June 19, 1999. A dynamic scoring guard with deep range, advanced shot creation, and quick first step. Effective in transition and off-ball scoring actions.
+	13) Kevin Huerter born on August 27, 1998. Shooting guard with elite perimeter mechanics, off-ball movement, secondary playmaking skills, catch-and-shoot efficiency, and spacing gravity.
+	14) Luke Kennard born on June 24, 1996. An elite perimeter shooter with quick release, efficient off-ball movement, secondary playmaking, and spacing gravity for team offense.
+	15) Jamal Murray born on February 23, 1997. A dynamic scoring guard with elite shooting off movement, advanced footwork, and composure under pressure. Excellent pick-and-roll execution and off-ball play.
+	16) Justin Jackson born on March 28, 1995. A tall wing with consistent shooting mechanics, good off-ball movement, and floor spacing value in catch-and-shoot situations.
+	17) Coby White born on February 16, 2000. Guard with speed, pull-up shooting, and off-ball movement. Can attack closeouts, finish in transition, and generate spacing with gravity.
+	18) Romeo Langford born on October 25, 1999. A long, athletic guard with slashing ability, defensive versatility, transition scoring, and off-ball movement to create spacing opportunities.
+	19) Bojan Bogdanovic born on April 18, 1989. Smooth-scoring forward with efficient catch-and-shoot shooting, smart off-ball movement, floor-spacing ability, and scoring versatility in motion and isolation.
+	20) Bradley Beal born on June 28, 1993. Elite scoring guard with three-level scoring, smooth shot mechanics, advanced footwork, off-ball movement, pick-and-roll efficiency, and floor-spacing gravity.
+
+	11 query: A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.
+	1) LeBron James born on December 30, 1984. A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.
+	2) Luka Doncic born on February 28, 1999. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense
+	3) Donovan Mitchell born on September 7, 1996. An elite scoring guard with explosive first step, advanced shot creation, and defensive strength. Dominant in isolation and clutch scoring scenarios.
+	4) Marcus Smart born on March 6, 1994. Guard with elite perimeter defense, playmaking, and clutch scoring. Can facilitate for teammates, defend multiple positions, and control pace.
+	5) Alex Caruso born on February 28, 1994. An elite perimeter defender with exceptional help instincts, quick rotations, and high basketball IQ. Offensively a smart cutter and secondary playmaker.
+	6) Kevin Durant born on September 29, 1988. A super efficient scorer (clutch player) with elite shooting efficiency, advanced handle, and unmatched shot creation from all three levels. Provides strong rim protection and defensive versatility for his size.
+	7) Theo Pinson born on November 5, 1995. A team-oriented wing with leadership presence, communication skills, and defensive versatility. Adds value through energy and adaptability.
+	8) Jonathan Isaac born on October 3, 1997. A long, athletic forward with elite defensive versatility, rim protection, and switchability across multiple positions. Provides transition finishing and secondary rebounding.
+	9) Gary Payton II born on December 1, 1992. An elite on-ball defender with quick hands, anticipation, and athletic finishing. Contributes through hustle, cutting, and secondary playmaking.
+	10) Domantas Sabonis born on May 3, 1996. Big with elite passing, scoring versatility, rebounding, and pick-and-roll finishing. Can defend in team concepts and provide interior help.
+	11) Michael Carter-Williams born on October 10, 1991. A tall guard with good defensive instincts, solid passing vision, and the ability to facilitate offense from multiple positions.
+	12) Dante Exum born on July 13, 1995. A long, athletic guard who defends multiple positions and contributes as a secondary playmaker and transition threat.
+	13) Frank Ntilikina born on July 28, 1998. A tall, disciplined defender with length, anticipation, and versatility to guard multiple positions. Facilitates offense with composure and spacing awareness.
+	14) Anthony Edwards born on August 5, 2001. A high-level scoring wing with explosive athleticism, strength, and an excellent shot creation. Excellent in transition and on-ball defense.
+	15) Nikola Jokic born on February 19, 1995. An elite passing center with unmatched court vision, touch, and scoring efficiency. Controls tempo and facilitates offense through post and high-screen actions.
+	16) Larry Nance Jr. born on January 1, 1993. An athletic forward/center with elite defensive switchability, vertical finishing, and high IQ passing. Adds energy, rebounding, and rim protection.
+	17) Paul George born on May 2, 1990. An elite two-way wing with smooth shot creation, defensive versatility, and advanced scoring across all three levels.
+	18) Taj Gibson born on June 24, 1985. A physical interior defender and strong rebounder who provides screens, toughness, and efficient finishing near the rim.
+	19) Khris Middleton born on August 12, 1991. A polished wing scorer with smooth shooting, midrange mastery, and playmaking ability. Defensively disciplined and effective in structured systems.
+	20) Draymond Green born on March 4, 1990. Elite defensive playmaker with anticipation, switching ability, rim protection, and playmaking as a short-roll facilitator and primary passer.
+
+
+***************************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************************************
+
+
+	1 query: Creative guard with elite IQ, advanced playmaking, mastered pick-and-roll and excellent vision and control. Someone who can direct the offense 
+	1) Spencer Dinwiddie born on April 6, 1993. A creative guard with size who excels at pick-and-roll playmaking, midrange shot creation, and tempo control.
+	2) Chris Paul born on May 6, 1985. An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.
+	3) Ja Morant born on August 10, 1999. An explosive playmaking guard with elite speed, body control, and finishing at the rim. Generates offense through transition and creative pick-and-roll execution.
+	4) Tyrese Haliburton born on February 29, 2000. Elite playmaking guard with advanced vision, efficient shooting, pick-and-roll control, off-ball movement to generate spacing, ability to read defenses, and creation for teammates in multiple offensive sets.
+	5) Jordan McLaughlin born on April 9, 1996. A cerebral point guard with sharp playmaking instincts, ball control, and defensive effort. Excellent at initiating offense and facilitating tempo.
+	6) Jalen Brunson born on August 31, 1996. Composed floor general with elite footwork, midrange scoring, pick-and-roll facilitation, off-ball movement, floor-spacing efficiency, and advanced playmaking control.
+	7) Ricky Rubio born on October 21, 1990. Point guard with elite vision, passing, and tempo control. Can facilitate offense efficiently and provide perimeter defense and help rotations.
+	8) Darius Garland born on January 26, 2000. A quick, creative point guard with elite handle, deep shooting range, and advanced passing in pick-and-roll situations.
+	9) Kevin Porter Jr. born on May 4, 2000. A creative scoring guard with elite handle, shot creation, and finishing ability. Generates offense off isolation and pick-and-roll play.
+	10) Kyle Anderson born on September 20, 1993. High-IQ forward with elite vision, pick-and-roll facilitation, tempo control, off-ball cutting, spacing creation, and versatile scoring in isolation and post-up situations.
+	11) T.J. McConnell born on March 25, 1992. A high-energy point guard with elite hustle, anticipation on defense, and strong playmaking in short-roll actions. Excellent in generating steals and tempo control.
+	12) Will Barton born on January 6, 1991. Creative scoring guard with advanced off-the-dribble creation, finishing ability in transition and half-court, floor-spacing gravity, and secondary playmaking off penetration.
+	13) Delon Wright born on April 26, 1992. Guard with defensive versatility, pick-and-roll defense, passing vision, and size. Can facilitate offense, move off-ball, and cut efficiently.
+	14) Malcolm Brogdon born on December 11, 1992. Poised scoring guard with elite efficiency, advanced shot creation, pick-and-roll facilitation, off-ball movement, floor-spacing, and secondary playmaking ability.
+	15) John Wall born on September 6, 1990. Point guard with elite speed, pick-and-roll execution, finishing at the rim, and playmaking vision. Can push transition and create for teammates effectively.
+	16) Jamal Murray born on February 23, 1997. A dynamic scoring guard with elite shooting off movement, advanced footwork, and composure under pressure. Excellent pick-and-roll execution and off-ball play.
+	17) Caris LeVert born on August 25, 1994. A creative scoring wing with advanced ball-handling, midrange efficiency, penetration-based playmaking, and transition finishing.
+	18) Stephen Curry born on March 14, 1988. A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.
+	19) Theo Maledon born on June 12, 2001. A tall point guard with good vision, ball control, half-court composure, and pick-and-roll facilitation.
+	20) Jimmy Butler born on September 14, 1989. An elite two-way wing and floor leader who excels at creating his own shot, facilitating offense, and defending top perimeter threats. Thrives in isolation, post play, and late-game situations with high basketball IQ and control.
+
+	2 query: High level scorer with deadly mid-range and consistent three-point accuracy. Someone with shot creation from all levels, also under pressure. Clutch player
+	1) Kevin Durant born on September 29, 1988. A super efficient scorer (clutch player) with elite shooting efficiency, advanced handle, and unmatched shot creation from all three levels. Provides strong rim protection and defensive versatility for his size.
+	2) Paul George born on May 2, 1990. An elite two-way wing with smooth shot creation, defensive versatility, and advanced scoring across all three levels.
+	3) Luka Doncic born on February 28, 1999. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense
+	4) DeMar DeRozan born on August 7, 1989. A skilled mid-range scorer with excellent footwork, post-up ability, and strong playmaking as a secondary facilitator.
+	5) LeBron James born on December 30, 1984. A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.
+	6) Raul Neto born on May 19, 1992. A veteran point guard with strong defensive fundamentals, playmaking control, and composure under pressure. Executes efficiently within structured systems.
+	7) Anthony Edwards born on August 5, 2001. A high-level scoring wing with explosive athleticism, strength, and an excellent shot creation. Excellent in transition and on-ball defense.
+	8) Trae Young born on September 19, 1998. Guard with deep shooting range, pick-and-roll creation, off-ball movement, and elite vision. Can score from multiple levels and generate spacing for teammates.
+	9) Jordan Nwora born on September 9, 1998. A smooth wing shooter with range, size, and scoring versatility. Adds spacing, shot creation, and rebounding from the perimeter.
+	10) Bradley Beal born on June 28, 1993. Elite scoring guard with three-level scoring, smooth shot mechanics, advanced footwork, off-ball movement, pick-and-roll efficiency, and floor-spacing gravity.
+	11) Josh Green born on November 16, 2000. Athletic wing with strong perimeter defense, cutting ability, catch-and-shoot scoring from midrange and three-point range, and off-ball movement to generate spacing for teammates.
+	12) Jayson Tatum born on March 3, 1998. Forward with elite scoring from all levels, spacing impact, footwork, and two-way ability. Can create for self and others, defend multiple positions, and shoot off the dribble or catch.
+	13) Grayson Allen born on October 8, 1995. Reliable perimeter scorer with elite catch-and-shoot mechanics, off-ball movement, ability to space the floor, and consistent scoring from beyond the arc.
+	14) Donovan Mitchell born on September 7, 1996. An elite scoring guard with explosive first step, advanced shot creation, and defensive strength. Dominant in isolation and clutch scoring scenarios.
+	15) Damian Lillard born on July 15, 1990. An elite scoring guard with deep shooting range, clutch shot-making, pick-and-roll command, off-ball movement, and floor-spacing gravity.
+	16) Kyrie Irving born on March 23, 1992. An elite offensive guard with exceptional ball-handling, finishing craft, and deep shooting range. Excels in isolation, pick-and-roll creation, and clutch scoring.
+	17) Tobias Harris born on July 15, 1992. Smooth forward with midrange and perimeter scoring, consistent three-point shooting, off-ball cutting, size to attack mismatches, and floor-spacing impact for team offense.
+	18) Jamal Murray born on February 23, 1997. A dynamic scoring guard with elite shooting off movement, advanced footwork, and composure under pressure. Excellent pick-and-roll execution and off-ball play.
+	19) Buddy Hield born on December 17, 1992. Premier three-point specialist with deep range, quick release, off-ball movement, spacing efficiency, and ability to finish off screens and in transition.
+	20) Bryn Forbes born on July 23, 1993. A specialist shooter with elite accuracy from deep, quick release, and strong off-ball movement to create spacing.
+
+	3 query: Tenacious forward with strong defensive instincts and impressive rebound skills. Someone who can who can switch on multiple positions 
+	1) Dario Saric born on April 8, 1994. Forward with passing skills, floor spacing, and catch-and-shoot range. Can rebound effectively and defend multiple positions in team schemes.
+	2) Brandon Clarke born on September 19, 1996. An explosive forward who finishes efficiently as a cutter and lob target, defends multiple positions, and provides rim protection with great timing.
+	3) Dante Exum born on July 13, 1995. A long, athletic guard who defends multiple positions and contributes as a secondary playmaker and transition threat.
+	4) Rudy Gay born on August 17, 1986. Versatile forward with midrange and catch-and-shoot scoring ability, capable of creating off the dribble and finishing in transition. Can stretch the floor with spacing, move effectively off-ball, and contribute as a cutter. Provides solid defensive positioning, can switch onto multiple positions, and offers help-side awareness.
+	5) Juan Toscano-Anderson born on April 10, 1993. Forward with defensive versatility, energy, and hustle. Can guard multiple positions and cut/spread the floor off-ball.
+	6) Anthony Gill born on October 17, 1992. Versatile forward who can finish efficiently around the rim, space the floor with catch-and-shoot ability, and rotate effectively on defense.
+	7) Jae Crowder born on July 6, 1990. A physical forward who provides leadership, strong positional defense, and consistent spot-up shooting from deep.
+	8) Jae'Sean Tate born on October 28, 1995. Forward with defensive versatility, energy, and smart team basketball. Can finish at rim, defend multiple positions, and move off-ball efficiently.
+	9) P.J. Washington born on August 23, 1998. Forward with spacing, perimeter shooting, pick-and-roll finishing, and defensive versatility. Can defend multiple positions and roll effectively in team schemes.
+	10) Justise Winslow born on March 26, 1996. Forward with defensive versatility, switchability, playmaking from the wing, and transition finishing. Can defend multiple positions and roll in pick-and-rolls.
+	11) P.J. Tucker born on May 5, 1985. Forward with corner shooting, physical defense, and switchability. Can set screens, cut, and defend multiple positions effectively.
+	12) Jalen Smith born on March 16, 2000. Forward with rebounding, size, and midrange scoring. Can defend multiple positions and rotate effectively in team defense.
+	13) Thaddeus Young born on June 21, 1988. Forward with IQ, screening, rebounding, and secondary playmaking. Can defend multiple positions and contribute efficiently in rotations.
+	14) Ben Simmons born on July 20, 1996. Guard/forward with elite playmaking, transition scoring, defensive versatility, and ability to guard multiple positions. Can initiate offense and finish at the rim efficiently.
+	15) Andrew Wiggins born on February 23, 1995. Wing with scoring efficiency, off-ball movement, transition finishing, and perimeter defense. Can switch across positions and cut effectively.
+	16) Michael Carter-Williams born on October 10, 1991. A tall guard with good defensive instincts, solid passing vision, and the ability to facilitate offense from multiple positions.
+	17) Amir Coffey born on June 17, 1997. A long, versatile wing who provides spacing, cutting, and perimeter defense while playing multiple guard and forward roles.
+	18) Jerami Grant born on March 12, 1994. Long, athletic forward with perimeter shooting, transition scoring, and defensive versatility across multiple positions.
+	19) Stanley Johnson born on May 29, 1996. A defensive wing with strong body control, physical perimeter defense, and ability to guard multiple positions.
+	20) Moritz Wagner born on April 26, 1997. Forward/center with perimeter shooting, spacing ability, and transition finishing. Can defend multiple positions and roll in pick-and-roll schemes.
+
+	4 query: Explosive wing with exceptional speed, agility, and finishing at the rim through contact above the rim. Someone who can cut and run transitions
+	1) Collin Sexton born on January 4, 1999. Explosive guard with strong midrange scoring, attacking the rim, and finishing through contact. Can move off-ball and create pick-and-roll opportunities.
+	2) Javonte Green born on July 23, 1993. Explosive wing with high-energy defense, perimeter activity, transition scoring, cutting ability, and finishing above the rim in open-court and pick-and-roll scenarios.
+	3) Ja Morant born on August 10, 1999. An explosive playmaking guard with elite speed, body control, and finishing at the rim. Generates offense through transition and creative pick-and-roll execution.
+	4) Keldon Johnson born on October 11, 1999. A powerful wing with downhill driving, rebounding, and finishing through contact. Brings energy and physicality in both ends.
+	5) Hamidou Diallo born on July 31, 1998. An explosive wing who attacks the rim in transition, rebounds well for his position, and defends with physicality.
+	6) Jaylen Brown born on October 24, 1996. Powerful athletic wing with elite slashing ability, finishing through contact, off-ball cutting, transition scoring, and secondary playmaking off penetration.
+	7) Lamar Stevens born on July 9, 1997. Forward with finishing through contact, rebounding, and defensive versatility. Can set screens and roll effectively in pick-and-rolls.
+	8) Dillon Brooks born on January 22, 1996. Strong two-way wing with on-ball defense, physical scoring through contact, off-ball cutting, pick-and-roll finishing, and transition aggression.
+	9) Markelle Fultz born on May 29, 1998. A crafty slashing guard with elite body control, strong finishing through contact, and advanced passing instincts.
+	10) Derrick Jones Jr. born on February 15, 1997. An explosive wing with elite defensive versatility, rim protection from the perimeter, transition finishing, and high-flying slashing ability.
+	11) RJ Barrett born on June 14, 2000. Strong slashing wing with size and athleticism, ability to finish through contact, off-ball cutting, pick-and-roll scoring, and midrange creation.
+	12) John Wall born on September 6, 1990. Point guard with elite speed, pick-and-roll execution, finishing at the rim, and playmaking vision. Can push transition and create for teammates effectively.
+	13) Miles Bridges born on March 21, 1998. Explosive athletic wing with elite slashing ability, rim-finishing, transition scoring, pick-and-roll effectiveness, and off-ball movement to create spacing.
+	14) Brandon Clarke born on September 19, 1996. An explosive forward who finishes efficiently as a cutter and lob target, defends multiple positions, and provides rim protection with great timing.
+	15) Russell Westbrook born on November 12, 1988. Guard with explosive attacking ability, rim finishing, rebounding, and pick-and-roll creation. Can push and control pace. He also can create for teammates off the bounce.
+	16) Zion Williamson born on July 6, 2000. Forward with explosive finishing, transition scoring, rim protection, and pick-and-roll rolls. Can create for teammates and space the floor with gravity.
+	17) Andrew Wiggins born on February 23, 1995. Wing with scoring efficiency, off-ball movement, transition finishing, and perimeter defense. Can switch across positions and cut effectively.
+	18) Onyeka Okongwu born on December 11, 2000. A mobile big with elite defensive instincts, rim protection, and switch agility. Finishes efficiently as a roller and rebounder.
+	19) Jaren Jackson Jr. born on September 15, 1999. A mobile stretch big with elite rim protection, lateral agility, and perimeter shooting. Excels in switch defense and floor spacing.
+	20) Tyrese Maxey born on November 4, 2000. An explosive scoring guard with elite speed, finishing ability, and shooting touch. Excellent in transition, off-the-dribble creation, and improving playmaking reads.
+
+	5 query: Reliable defender with physical presence, strong rebounding instincts and rim protection. Someone who can dominate in the paint offensvely and defensevly 
+	1) Taj Gibson born on June 24, 1985. A physical interior defender and strong rebounder who provides screens, toughness, and efficient finishing near the rim.
+	2) DaQuan Jeffries born on August 30, 1997. A strong wing defender with physicality, rebounding presence, and ability to attack the rim in transition.
+	3) Bismack Biyombo born on August 28, 1992. Physical interior defender and rim protector with elite shot-blocking timing, rebounding instincts, and ability to set screens and roll effectively.
+	4) Damian Jones born on June 30, 1995. An athletic center with elite rim protection, verticality for shot-blocking, efficient lob finishing, and strong rebounding presence.
+	5) Wenyen Gabriel born on March 26, 1997. A high-energy forward with rebounding presence, rim protection, and mobility to defend multiple frontcourt spots.
+	6) Luguentz Dort born on April 19, 1999. A premier on-ball defender who guards elite scorers across positions while providing reliable catch-and-shoot offense.
+	7) Mfiondu Kabengele born on August 14, 1997. A mobile forward/center with rim protection, energy for transition finishing, verticality for lob opportunities, and strong interior presence.
+	8) Alex Len born on June 16, 1993. A big-bodied center with rim protection, elite interior rebounding, efficient finishing around the basket, and post presence.
+	9) Steven Adams born on July 20, 1993. A dominant interior presence who excels at setting powerful screens, securing rebounds, and anchoring the paint with strength and positioning.
+	10) Nick Richards born on November 29, 1997. Athletic big with rim protection, finishing ability around the basket, and effective rebounding positioning. Can roll in pick-and-rolls and protect paint defensively.
+	11) Bruno Fernando born on August 15, 1998. A powerful interior player with strong rebounding, rim finishing, and shot-blocking instincts.
+	12) Nerlens Noel born on April 10, 1994. A long, athletic rim protector with elite shot-blocking instincts, vertical spacing, and rebounding presence. Excels in defensive coverage and transition plays.
+	13) Mo Bamba born on May 12, 1998. Long, mobile center with elite rim protection instincts, floor-spacing shooting touch, pick-and-roll roll efficiency, and vertical finishing in transition and paint.
+	14) Moses Brown born on October 13, 1999. Long physical center with elite rebounding, rim protection, pick-and-roll finishing, lob receiving, and transition scoring.
+	15) James Johnson born on February 20, 1987. A strong, versatile forward with defensive toughness, handling ability, and transition finishing. Provides physical presence and switch defense.
+	16) DeAndre Jordan born on July 21, 1988. A veteran center with elite rim protection, rebounding dominance, efficient lob finishing, and interior positioning to control the paint.
+	17) Jae Crowder born on July 6, 1990. A physical forward who provides leadership, strong positional defense, and consistent spot-up shooting from deep.
+	18) Isaac Okoro born on January 26, 2001. A strong wing defender with elite on-ball pressure, physical strength, and cutting ability. Contributes with hustle, drives, and team defense.
+	19) Nathan Knight born on September 20, 1997. A strong interior player with effective rebounding, post finishing, physical screening, and energy-driven play around the rim.
+	20) Robert Williams born on October 17, 1997. Center with elite rim protection, vertical finishing, pick-and-roll rolls, and defensive rotations. Can protect paint and rebound at high level.
+
+	6 query: Perimeter shooter with fast release, consistent accuracy and excellent off-ball movement. Someone who can space the floor with his off-ball gravity
+	1) Bryn Forbes born on July 23, 1993. A specialist shooter with elite accuracy from deep, quick release, and strong off-ball movement to create spacing.
+	2) Luke Kennard born on June 24, 1996. An elite perimeter shooter with quick release, efficient off-ball movement, secondary playmaking, and spacing gravity for team offense.
+	3) Tyler Dorsey born on February 18, 1996. A smooth perimeter shooter with quick release, good spacing instincts, and solid off-ball movement.
+	4) Seth Curry born on August 23, 1990. An elite perimeter shooter with quick release, off-ball movement, and efficient scoring off screens and spot-ups.
+	5) Mikal Bridges born on August 30, 1996. Elite two-way wing with consistent perimeter shooting, off-ball movement, defensive versatility, floor-spacing gravity, and transition finishing ability.
+	6) Grayson Allen born on October 8, 1995. Reliable perimeter scorer with elite catch-and-shoot mechanics, off-ball movement, ability to space the floor, and consistent scoring from beyond the arc.
+	7) Isaiah Joe born on July 2, 1999. A perimeter shooter with quick release, deep range, and off-ball movement. Adds spacing and catch-and-shoot reliability.
+	8) Doug McDermott born on January 3, 1992. An elite movement shooter with quick release, off-screen scoring, and spatial awareness. Excels at floor spacing and creating gravity in half-court offense.
+	9) Harrison Barnes born on May 30, 1992. Consistent forward with polished shooting mechanics, off-ball movement, secondary playmaking, floor-spacing gravity, and defensive versatility across multiple positions.
+	10) Gabe Vincent born on June 14, 1996. Guard with confident perimeter shooting, off-ball movement, and team defense. Can space the floor, hit spot-up threes, and cut in transition.
+	11) Malik Beasley born on November 26, 1996. High-volume perimeter shooter with elite catch-and-shoot mechanics, floor-spacing efficiency, off-ball movement, and ability to finish off screens.
+	12) Kobi Simmons born on July 4, 1997. Athletic guard with slashing ability, finishing at the rim, and perimeter defense. Can space floor with occasional off-ball shooting.
+	13) Rodney McGruder born on July 29, 1991. A steady veteran guard who defends well on the perimeter, moves intelligently off the ball, and spaces the floor as a reliable spot-up shooter.
+	14) Furkan Korkmaz born on July 24, 1997. A confident wing shooter with elite catch-and-shoot ability, movement off screens, spacing gravity, and off-ball cutting instincts.
+	15) Lonnie Walker IV born on December 14, 1998. Athletic guard with shooting range, scoring burst off the dribble, and off-ball movement. Can cut, space the floor, and defend multiple positions.
+	16) Devin Vassell born on August 23, 2000. Wing with smooth shooting, defensive IQ, and off-ball movement. Can switch on defense, space the floor, and cut efficiently in transition.
+	17) George Hill born on May 4, 1986. Veteran guard with efficient shooting, off-ball movement, perimeter defense, secondary playmaking, pick-and-roll facilitation, and floor-spacing gravity.
+	18) Trey Lyles born on November 5, 1995. A stretch forward with consistent perimeter shooting, physical interior play, rebounding, and off-ball movement to generate spacing.
+	19) Davis Bertans born on November 12, 1992. Stretch forward with elite long-range shooting, quick release, pick-and-pop efficiency, floor-spacing gravity, and ability to move effectively off-ball.
+	20) Damion Lee born on October 21, 1992. A reliable spot-up shooter with intelligent off-ball movement, floor-spacing efficiency, and transition scoring capability.
+
+	7 query: An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.
+	1) Chris Paul born on May 6, 1985. An elite guard with exceptional IQ, excellent pick-and-roll and superb vision. Midrange mastery. Directs offense with precision and applies defensive pressure effectively.
+	2) Monte Morris born on June 27, 1995. A composed point guard with exceptional turnover control, efficient shooting, and steady leadership. Executes offense with precision and poise.
+	3) Luka Doncic born on February 28, 1999. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense
+	4) Kris Dunn born on March 18, 1994. A defensive guard with quick hands, lateral speed, and on-ball pressure who initiates offense effectively in transition.
+	5) Jamal Murray born on February 23, 1997. A dynamic scoring guard with elite shooting off movement, advanced footwork, and composure under pressure. Excellent pick-and-roll execution and off-ball play.
+	6) De'Aaron Fox born on December 20, 1997. An elite speed guard with exceptional burst, downhill scoring, and midrange pull-up accuracy. Excels in transition and pick-and-roll creation.
+	7) Delon Wright born on April 26, 1992. Guard with defensive versatility, pick-and-roll defense, passing vision, and size. Can facilitate offense, move off-ball, and cut efficiently.
+	8) Al Horford born on June 3, 1986. High-IQ big with elite defensive awareness, passing vision, floor-spacing shooting, pick-and-roll facilitation, ability to anchor team defense, and communication for rotations.
+	9) Ish Smith born on July 5, 1988. Point guard with speed, penetration, and passing vision. Can facilitate offense and exploit gaps in transition effectively.
+	10) Tre Jones born on January 8, 2000. A steady point guard with elite floor control, on-ball defensive activity, efficient decision-making, and mastery in tempo management and pick-and-roll execution.
+	11) James Harden born on August 26, 1989. Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.
+	12) Alex Caruso born on February 28, 1994. An elite perimeter defender with exceptional help instincts, quick rotations, and high basketball IQ. Offensively a smart cutter and secondary playmaker.
+	13) John Wall born on September 6, 1990. Point guard with elite speed, pick-and-roll execution, finishing at the rim, and playmaking vision. Can push transition and create for teammates effectively.
+	14) Michael Carter-Williams born on October 10, 1991. A tall guard with good defensive instincts, solid passing vision, and the ability to facilitate offense from multiple positions.
+	15) Kyle Anderson born on September 20, 1993. High-IQ forward with elite vision, pick-and-roll facilitation, tempo control, off-ball cutting, spacing creation, and versatile scoring in isolation and post-up situations.
+	16) Jordan McLaughlin born on April 9, 1996. A cerebral point guard with sharp playmaking instincts, ball control, and defensive effort. Excellent at initiating offense and facilitating tempo.
+	17) Killian Hayes born on July 27, 2001. Tall left-handed guard with advanced passing vision, midrange shooting, pick-and-roll facilitation, defensive activity, off-ball movement, and ability to generate spacing and opportunities for teammates.
+	18) Trent Forrest born on June 12, 1998. A strong, defensive-minded guard with good size, discipline, and playmaking vision. Provides on-ball pressure and secondary ball-handling support.
+	19) Garrett Temple born on May 8, 1986. Veteran guard with defensive awareness, team IQ, and perimeter spacing. Can cut effectively and provide energy off the ball.
+	20) Dejounte Murray born on September 19, 1996. A long, athletic guard with elite rebounding, midrange control, and defensive impact. Creates off the dribble and guards multiple positions effectively.
+
+	8 query: Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.
+	1) Klay Thompson born on February 8, 1990. Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.
+	2) OG Anunoby born on July 17, 1997. Premier two-way wing with elite perimeter defense, catch-and-shoot proficiency, off-ball cutting, floor-spacing gravity, and ability to guard multiple positions effectively.
+	3) Furkan Korkmaz born on July 24, 1997. A confident wing shooter with elite catch-and-shoot ability, movement off screens, spacing gravity, and off-ball cutting instincts.
+	4) Kevin Huerter born on August 27, 1998. Shooting guard with elite perimeter mechanics, off-ball movement, secondary playmaking skills, catch-and-shoot efficiency, and spacing gravity.
+	5) Josh Richardson born on September 15, 1993. Wing with versatile on-ball and help defense, solid catch-and-shoot ability, and off-ball movement for spacing. Can cut efficiently and defend multiple positions.
+	6) Bojan Bogdanovic born on April 18, 1989. Smooth-scoring forward with efficient catch-and-shoot shooting, smart off-ball movement, floor-spacing ability, and scoring versatility in motion and isolation.
+	7) Dylan Windler born on September 22, 1996. Wing with catch-and-shoot ability, off-ball movement, and rebounding. Can cut efficiently and stretch the floor with shooting gravity.
+	8) Dario Saric born on April 8, 1994. Forward with passing skills, floor spacing, and catch-and-shoot range. Can rebound effectively and defend multiple positions in team schemes.
+	9) Nicolas Batum born on December 14, 1988. Veteran forward with elite court vision, passing feel, catch-and-shoot proficiency, off-ball movement, floor-spacing gravity, and ability to facilitate secondary offense.
+	10) Sterling Brown born on February 10, 1995. Reliable 3-and-D wing with catch-and-shoot efficiency, off-ball movement, defensive positioning, and floor-spacing gravity.
+	11) Gordon Hayward born on March 23, 1990. Versatile wing with catch-and-shoot efficiency, off-ball movement, secondary playmaking, floor-spacing gravity, and ability to create scoring opportunities for teammates off penetration or screens.
+	12) Gary Trent Jr. born on January 18, 1999. Guard with scoring ability, catch-and-shoot range, off-ball movement, and perimeter defense. Can attack closeouts and finish at rim.
+	13) Jayson Tatum born on March 3, 1998. Forward with elite scoring from all levels, spacing impact, footwork, and two-way ability. Can create for self and others, defend multiple positions, and shoot off the dribble or catch.
+	14) De'Andre Hunter born on December 2, 1997. Two-way forward with on-ball defense, midrange scoring, off-ball movement, cutting ability, and ability to guard multiple positions effectively.
+	15) Malik Beasley born on November 26, 1996. High-volume perimeter shooter with elite catch-and-shoot mechanics, floor-spacing efficiency, off-ball movement, and ability to finish off screens.
+	16) Bogdan Bogdanovic born on August 18, 1992. Skilled combo guard with efficient shooting, advanced ball-handling, off-ball movement, pick-and-roll playmaking, and floor-spacing gravity.
+	17) Josh Green born on November 16, 2000. Athletic wing with strong perimeter defense, cutting ability, catch-and-shoot scoring from midrange and three-point range, and off-ball movement to generate spacing for teammates.
+	18) Stephen Curry born on March 14, 1988. A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.
+	19) Jalen Smith born on March 16, 2000. Forward with rebounding, size, and midrange scoring. Can defend multiple positions and rotate effectively in team defense.
+	20) Max Strus born on March 28, 1996. Sharpshooting guard with range, off-ball movement, and spacing impact. Can cut efficiently and hit catch-and-shoot opportunities.
+
+	9 query: Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.
+	1) James Harden born on August 26, 1989. Elite offensive creator with advanced isolation scoring, step-back shooting, off-ball gravity to generate spacing, pick-and-roll mastery, and passing vision to create opportunities for multiple teammates.
+	2) Killian Hayes born on July 27, 2001. Tall left-handed guard with advanced passing vision, midrange shooting, pick-and-roll facilitation, defensive activity, off-ball movement, and ability to generate spacing and opportunities for teammates.
+	3) Tyrese Haliburton born on February 29, 2000. Elite playmaking guard with advanced vision, efficient shooting, pick-and-roll control, off-ball movement to generate spacing, ability to read defenses, and creation for teammates in multiple offensive sets.
+	4) Devin Booker born on October 30, 1996. Elite scoring guard with advanced shot creation, off-the-dribble finishing, floor-spacing gravity, off-ball movement, and ability to create opportunities for teammates through pick-and-roll facilitation.
+	5) Andre Iguodala born on January 28, 1984. Defensive playmaker with passing vision, transition finishing, off-ball cutting, floor-spacing, and ability to create scoring opportunities for teammates.
+	6) Fred VanVleet born on February 25, 1994. Guard with strong shooting, perimeter scoring, pick-and-roll execution, and on-ball defense. Can create for teammates and generate spacing with gravity.
+	7) Trae Young born on September 19, 1998. Guard with deep shooting range, pick-and-roll creation, off-ball movement, and elite vision. Can score from multiple levels and generate spacing for teammates.
+	8) Jrue Holiday born on June 12, 1990. Elite two-way guard with ball-handling, passing vision, perimeter defense, finishing at the rim, off-ball movement, and ability to create spacing for teammates.
+	9) Gordon Hayward born on March 23, 1990. Versatile wing with catch-and-shoot efficiency, off-ball movement, secondary playmaking, floor-spacing gravity, and ability to create scoring opportunities for teammates off penetration or screens.
+	10) Giannis Antetokounmpo born on December 6, 1994. Dominant forward with elite transition finishing, interior scoring, rim-running ability, ball-handling for a big, floor-spacing gravity, off-ball cutting, and playmaking for teammates in multiple offensive sets.
+	11) Jarrell Brantley born on June 7, 1996. Physical forward with high-energy defense, offensive rebounding, pick-and-roll roll efficiency, and cutting ability to generate scoring opportunities.
+	12) Nickeil Alexander-Walker born on September 2, 1998. Skilled combo guard with smooth shooting mechanics, ability to create off the dribble, efficient scoring in isolation and pick-and-roll situations, floor-spacing gravity, and strong on-ball defensive instincts.
+	13) Joe Ingles born on October 2, 1987. Crafty forward with elite passing, floor spacing, off-ball movement, pick-and-roll creation, and ability to facilitate scoring opportunities efficiently.
+	14) CJ McCollum born on September 19, 1991. A smooth scoring guard with elite midrange shooting, advanced handle, and off-ball movement. Creates efficiently from pick-and-roll and isolation situations.
+	15) Bradley Beal born on June 28, 1993. Elite scoring guard with three-level scoring, smooth shot mechanics, advanced footwork, off-ball movement, pick-and-roll efficiency, and floor-spacing gravity.
+	16) Blake Griffin born on March 16, 1989. Skilled big with high passing IQ, pick-and-pop and pick-and-roll shooting, rim-finishing ability, lob receiving, off-ball movement, and capacity to create scoring opportunities in the interior.
+	17) Donovan Mitchell born on September 7, 1996. An elite scoring guard with explosive first step, advanced shot creation, and defensive strength. Dominant in isolation and clutch scoring scenarios.
+	18) Frank Kaminsky born on April 4, 1993. A stretch big with elite midrange and three-point shooting, advanced passing vision, pick-and-pop effectiveness, and floor-spacing ability.
+	19) Bogdan Bogdanovic born on August 18, 1992. Skilled combo guard with efficient shooting, advanced ball-handling, off-ball movement, pick-and-roll playmaking, and floor-spacing gravity.
+	20) Stephen Curry born on March 14, 1988. A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.
+
+	10 query: Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.
+	1) Klay Thompson born on February 8, 1990. Guard with elite catch-and-shoot ability, spacing gravity, off-ball movement, and efficient midrange scoring. Can defend wings effectively.
+	2) OG Anunoby born on July 17, 1997. Premier two-way wing with elite perimeter defense, catch-and-shoot proficiency, off-ball cutting, floor-spacing gravity, and ability to guard multiple positions effectively.
+	3) Furkan Korkmaz born on July 24, 1997. A confident wing shooter with elite catch-and-shoot ability, movement off screens, spacing gravity, and off-ball cutting instincts.
+	4) Kevin Huerter born on August 27, 1998. Shooting guard with elite perimeter mechanics, off-ball movement, secondary playmaking skills, catch-and-shoot efficiency, and spacing gravity.
+	5) Josh Richardson born on September 15, 1993. Wing with versatile on-ball and help defense, solid catch-and-shoot ability, and off-ball movement for spacing. Can cut efficiently and defend multiple positions.
+	6) Bojan Bogdanovic born on April 18, 1989. Smooth-scoring forward with efficient catch-and-shoot shooting, smart off-ball movement, floor-spacing ability, and scoring versatility in motion and isolation.
+	7) Dylan Windler born on September 22, 1996. Wing with catch-and-shoot ability, off-ball movement, and rebounding. Can cut efficiently and stretch the floor with shooting gravity.
+	8) Dario Saric born on April 8, 1994. Forward with passing skills, floor spacing, and catch-and-shoot range. Can rebound effectively and defend multiple positions in team schemes.
+	9) Nicolas Batum born on December 14, 1988. Veteran forward with elite court vision, passing feel, catch-and-shoot proficiency, off-ball movement, floor-spacing gravity, and ability to facilitate secondary offense.
+	10) Sterling Brown born on February 10, 1995. Reliable 3-and-D wing with catch-and-shoot efficiency, off-ball movement, defensive positioning, and floor-spacing gravity.
+	11) Gordon Hayward born on March 23, 1990. Versatile wing with catch-and-shoot efficiency, off-ball movement, secondary playmaking, floor-spacing gravity, and ability to create scoring opportunities for teammates off penetration or screens.
+	12) Gary Trent Jr. born on January 18, 1999. Guard with scoring ability, catch-and-shoot range, off-ball movement, and perimeter defense. Can attack closeouts and finish at rim.
+	13) Jayson Tatum born on March 3, 1998. Forward with elite scoring from all levels, spacing impact, footwork, and two-way ability. Can create for self and others, defend multiple positions, and shoot off the dribble or catch.
+	14) De'Andre Hunter born on December 2, 1997. Two-way forward with on-ball defense, midrange scoring, off-ball movement, cutting ability, and ability to guard multiple positions effectively.
+	15) Malik Beasley born on November 26, 1996. High-volume perimeter shooter with elite catch-and-shoot mechanics, floor-spacing efficiency, off-ball movement, and ability to finish off screens.
+	16) Bogdan Bogdanovic born on August 18, 1992. Skilled combo guard with efficient shooting, advanced ball-handling, off-ball movement, pick-and-roll playmaking, and floor-spacing gravity.
+	17) Josh Green born on November 16, 2000. Athletic wing with strong perimeter defense, cutting ability, catch-and-shoot scoring from midrange and three-point range, and off-ball movement to generate spacing for teammates.
+	18) Stephen Curry born on March 14, 1988. A super efficient and crafty guard with deep shooting range, elite off-ball movement, and advanced playmaking vision. Creates spacing gravity that transforms team offenses.
+	19) Jalen Smith born on March 16, 2000. Forward with rebounding, size, and midrange scoring. Can defend multiple positions and rotate effectively in team defense.
+	20) Max Strus born on March 28, 1996. Sharpshooting guard with range, off-ball movement, and spacing impact. Can cut efficiently and hit catch-and-shoot opportunities.
+
+	11 query: A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.
+	1) LeBron James born on December 30, 1984. A generational playmaker with elite strength, vision, and versatility (clutch player). Dominates as a passer, scorer, and defender in multiple roles.
+	2) Kevin Durant born on September 29, 1988. A super efficient scorer (clutch player) with elite shooting efficiency, advanced handle, and unmatched shot creation from all three levels. Provides strong rim protection and defensive versatility for his size.
+	3) Draymond Green born on March 4, 1990. Elite defensive playmaker with anticipation, switching ability, rim protection, and playmaking as a short-roll facilitator and primary passer.
+	4) Luka Doncic born on February 28, 1999. A fantastic playmaker and scorer with elite vision, ball-handling, and shot creation from all levels. With super pick-and-roll ability controls pace, manipulates defenses, and directs offense
+	5) Donovan Mitchell born on September 7, 1996. An elite scoring guard with explosive first step, advanced shot creation, and defensive strength. Dominant in isolation and clutch scoring scenarios.
+	6) Alex Caruso born on February 28, 1994. An elite perimeter defender with exceptional help instincts, quick rotations, and high basketball IQ. Offensively a smart cutter and secondary playmaker.
+	7) Isaac Okoro born on January 26, 2001. A strong wing defender with elite on-ball pressure, physical strength, and cutting ability. Contributes with hustle, drives, and team defense.
+	8) Frank Ntilikina born on July 28, 1998. A tall, disciplined defender with length, anticipation, and versatility to guard multiple positions. Facilitates offense with composure and spacing awareness.
+	9) Marcus Smart born on March 6, 1994. Guard with elite perimeter defense, playmaking, and clutch scoring. Can facilitate for teammates, defend multiple positions, and control pace.
+	10) Josh Okogie born on September 1, 1998. A high-energy defender with elite lateral quickness, strength, and hustle. Effective on-ball stopper who pressures passing lanes and attacks the rim.
+	11) Amir Coffey born on June 17, 1997. A long, versatile wing who provides spacing, cutting, and perimeter defense while playing multiple guard and forward roles.
+	12) Andre Iguodala born on January 28, 1984. Defensive playmaker with passing vision, transition finishing, off-ball cutting, floor-spacing, and ability to create scoring opportunities for teammates.
+	13) Dante Exum born on July 13, 1995. A long, athletic guard who defends multiple positions and contributes as a secondary playmaker and transition threat.
+	14) Bruce Brown born on August 15, 1996. Versatile two-way player with ability to defend multiple positions, off-ball cutting, transition finishing, secondary playmaking, and pick-and-roll scoring.
+	15) Kyle Kuzma born on July 24, 1995. A versatile scoring forward with shot creation, rebounding strength, cutting ability, and defensive awareness in multiple matchups.
+	16) Trae Young born on September 19, 1998. Guard with deep shooting range, pick-and-roll creation, off-ball movement, and elite vision. Can score from multiple levels and generate spacing for teammates.
+	17) Jonathan Isaac born on October 3, 1997. A long, athletic forward with elite defensive versatility, rim protection, and switchability across multiple positions. Provides transition finishing and secondary rebounding.
+	18) Markieff Morris born on September 2, 1989. A veteran big forward with interior strength, defensive versatility, and reliable catch-and-shoot spacing. Brings physicality and experience to frontcourt rotations.
+	19) Khem Birch born on September 28, 1992. Strong interior player with elite defensive positioning, offensive rebounding, finishing near the basket, and efficient screen setting in pick-and-roll situations.
+	20) Damian Lillard born on July 15, 1990. An elite scoring guard with deep shooting range, clutch shot-making, pick-and-roll command, off-ball movement, and floor-spacing gravity.
