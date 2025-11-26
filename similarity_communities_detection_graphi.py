@@ -1,11 +1,10 @@
 
 import pandas as pd
-from sklearn.preprocessing import MinMaxScaler, StandardScaler
+from sklearn.preprocessing import StandardScaler
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 import networkx as nx
 import matplotlib.pyplot as plt
-import community as community_louvain
 
 pd.set_option('display.max_colwidth', None)
 
@@ -13,11 +12,11 @@ pd.set_option('display.max_colwidth', None)
 
 
 
-query_path = ".\\nba_players_datasets\\nba_players_from_2023_dataset.json"
+path = ".\\nba_players_datasets\\nba_players_from_2023_dataset.json"
 
 
 # loading dataset
-df = pd.read_json(query_path)
+df = pd.read_json(path)
 
 players_tuple_list = [ (index, player)  for index, player in zip(df.index, df['Player']) ]
 
@@ -43,10 +42,10 @@ not_sim_players = list(set(df.index) - set(G.nodes))
 [ G.add_node(not_sim_player) for not_sim_player in df.loc[not_sim_players, 'Player'] ]
 
 
-
 nx.write_graphml(G, "players_similarity.graphml")
-#nx.write_gexf(G, "player_similarity1.gexf")
 nx.write_gml(G, "players_similarity.gml")
+#nx.write_gexf(G, "player_similarity1.gexf")
+
 
 
 
